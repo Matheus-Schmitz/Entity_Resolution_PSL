@@ -1,0 +1,1 @@
+java -Xmx6g -jar psl-cli-2.2.1.jar --infer --model hw8_psl.psl --data hw8_data.data --output inferred-predicates_hw8

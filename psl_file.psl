@@ -1,0 +1,38 @@
+
+// Look for text similarity.
+40.0: DirectorName(D1, N1) & DirectorName(D2, N2) & SimDirector(N1, N2) & (D1 != D2) -> SameDirector(D1, D2) ^2
+40.0: MovieTitle(M1, T1) & MovieTitle(M2, T2) & SimMovie(T1, T2) & (M1 != M2) -> SameMovie(M1, M2) ^2
+
+// Pure transitivity (Director)
+20.0: DirectorBlock(D1, B) & DirectorBlock(D2, B) & DirectorBlock(D3, B)
+   & SameDirector(D1, D2) & SameDirector(D2, D3)
+   & (D1 != D3) & (D1 != D2) & (D2 != D3)
+   -> SameDirector(D1, D3) ^2
+
+// Pure transitivity (Movie)
+20.0: MovieBlock(M1, B) & MovieBlock(M2, B) & MovieBlock(M3, B)
+   & SameMovie(M1, M2) & SameMovie(M2, M3)
+   & (M1 != M3) & (M1 != M2) & (M2 != M3)
+   -> SameMovie(M1, M3) ^2
+
+// Collective KG-Based ER Rules (Codirector rectangle closure)
+20.0: DirectorBlock(D1, B1) & DirectorBlock(D2, B1) & DirectorBlock(CD1, B2) & DirectorBlock(CD2, B2) &
+   & DirectorOf(D1, M1) & DirectorOf(D2, M2)
+   & DirectorOf(CD1, M1) & DirectorOf(CD2, M2) & SameDirector(CD1, CD2)
+   & (D1 != CD1) & (D2 != CD2) & (M1 != M2)
+   -> SameDirector(D1, D2) ^2
+
+// Collective KG-Based ER Rules (Movie rectangle closure)
+10.0: DirectorBlock(D1, B1) & DirectorBlock(D2, B1)
+   & DirectorOf(D1, M1) & DirectorOf(D2, M2)
+   & SameMovie(M1, M2)
+   -> SameDirector(D1, D2) ^2
+
+// Self-refernece.
+SameDirector(A, A) = 1.0 .
+SameMovie(P, P) = 1.0 .
+
+// Negative priors.
+1.0: !SameDirector(D1, D2) ^2
+1.0: !SameMovie(D1, D2) ^2
+

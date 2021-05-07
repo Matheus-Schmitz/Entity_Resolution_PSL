@@ -1,0 +1,61 @@
+predicates:
+   DirectorName/2:
+      - closed
+      - types:
+         - UniqueIntID
+         - UniqueStringID
+   DirectorBlock/2:
+      - closed
+      - block
+      - types:
+         - UniqueIntID
+         - UniqueStringID
+   DirectorOf/2:
+      - closed
+      - types:
+         - UniqueIntID
+         - UniqueIntID
+   MovieTitle/2:
+      - closed
+      - types:
+         - UniqueIntID
+         - UniqueStringID
+   MovieBlock/2:
+      - closed
+      - block
+      - types:
+         - UniqueIntID
+         - UniqueStringID
+   SimDirector/2:
+      - closed
+      - types:
+         - UniqueStringID
+         - UniqueStringID
+   SimMovie/2:
+      - closed
+      - types:
+         - UniqueStringID
+         - UniqueStringID
+   SameMovie/2:
+      - open
+      - types:
+         - UniqueIntID
+         - UniqueIntID
+   SameDirector/2:
+      - open
+      - types:
+         - UniqueIntID
+         - UniqueIntID
+
+observations:
+   DirectorName: downsampled_directorName_obs.txt
+   DirectorBlock: downsampled_directorBlock_obs.txt
+   DirectorOf: downsampled_directorOf_obs.txt
+   MovieTitle: downsampled_movieTitle_obs.txt
+   MovieBlock: downsampled_movieBlock_obs.txt
+   SimDirector: downsampled_simDirector_obs.txt
+   SimMovie: downsampled_simMovie_obs.txt
+
+targets:
+   SameMovie: downsampled_sameMovie_target.txt
+   SameDirector: downsampled_sameDirector_target.txt

@@ -1,0 +1,4452 @@
+50000	Elmer Clifton
+50001	Mark Sandrich
+50002	Robert Z. Leonard
+50003	Richard Rush
+50004	Ketan Mehta
+50005	Jonathan Lucas
+50006	Frank Capra
+50007	John S. Robertson
+50008	Rouben Mamoulian
+50010	W.S. Van Dyke
+50011	Raja Gosnell
+50012	Paul McGuigan
+50013	James Whale
+50015	Tod Browning
+50016	John P. Whitesell
+50018	John Badham
+50019	Edmund Goulding
+50020	F.W. Murnau
+50022	Lewis Milestone
+50023	Norman McLeod
+50024	Mervyn LeRoy
+50025	Jonathan Kaplan
+50026	William Wellman
+50027	Charles Jarrott
+50028	Howard Hawks
+50029	Jean-François Richet
+50030	King Vidor
+50031	Rod Lurie
+50035	Franco Zeffirelli
+50038	Roy Del Ruth
+50040	Clarence Brown
+50042	Charles Walters
+50043	Lorna Cook
+50044	Michael Mann
+50046	Charles Chaplin
+50047	Andrew Stevens
+50048	Archie Mayo
+50050	William Castle
+50053	Maurice Tourneur
+50054	Lee Sang-hoon II
+50055	Adrian Biddle
+50056	Alex Kurtzman
+50058	Karl Freund
+50059	Paul Weitz
+50062	Carl Jackson
+50064	Erle C. Kenton
+50066	Wes Anderson
+50067	Sammo Hung Kam-Bo
+50068	Josef von Sternberg
+50070	Victor Fleming
+50071	Tom Hooper
+50073	Dave Coleman
+50074	Di Drew
+50076	Ernst Lubitsch
+50077	Gordon Hessler
+50078	Brian DePalma
+50079	George Cukor
+50080	Scott Levy
+50081	Antonio Margheriti
+50083	Timo Vainikka
+50084	John Guillermin
+50085	Alfred E. Green
+50087	Ernest B. Schoedsack
+50088	Ford Beebe
+50090	Joe May
+50091	Lloyd Bacon
+50093	Busby Berkeley
+50094	Peter Jackson
+50095	Julie Taymor
+50097	Jack Heller
+50098	Jonathan Levine
+50099	Leo McCarey
+50101	Frank R. Strayer
+50104	Hideo Nakata
+50105	Ruel S. Bayani
+50107	Frank Lloyd
+50108	William A. Seiter
+50110	Jerry Rothwell
+50111	Duwayne Dunham
+50112	Marcel Pagnol
+50114	Nick Cassavetes
+50115	Harry d'Abbadie d'Arrast
+50117	Gillian Armstrong
+50121	Alexander Hall
+50123	Michael Gordon
+50125	Lewis R. Foster
+50129	Byron Haskin
+50130	Peter Rowe
+50131	Stuart Walker
+50132	Steven Schachter
+50134	Nicolas Winding Refn
+50135	Henry Hathaway
+50136	Sidney Franklin
+50138	Michael Curtiz
+50140	Jean Yarbrough
+50141	Carol Reed
+50142	Richard Thorpe
+50144	John Landis
+50146	Sheldon Larry
+50147	Mario Zampi
+50148	Albert S. Rogell
+50150	Lucio Fulci
+50151	John Huston
+50152	George Stevens Jr.
+50154	Baz Luhrmann
+50155	Sam Wood
+50157	George Stevens
+50159	Gregory Nava
+50160	Jim Goddard
+50161	Lew Landers
+50162	David Ayer
+50165	Jack Conway
+50166	Roger Corman
+50167	Delbert Mann
+50168	James McTeigue
+50169	Henry Koster
+50172	Herbert Ross
+50174	Rob Reiner
+50175	Grant Heslov
+50176	Lambert Hillyer
+50181	Andy Fickman
+50183	Carlo Carlei
+50185	Gregory La Cava
+50189	Andy Warhol
+50190	Irving Cummings
+50191	Charlie Chaplin
+50193	Gregory Mackenzie
+50195	George Fitzmaurice
+50196	Richard Quine
+50198	Preston A. Whitmore II
+50199	Desmond Davis
+50200	Ask Hasselbalch
+50201	Tim Robbins
+50203	Masahiro Shinoda
+50204	George Miller
+50207	James W. Horne
+50208	Paul Marcus
+50214	Allan Dwan
+50216	Jean-Baptiste Andrea
+50217	Ronald Colman
+50218	James Hill
+50221	Michael Anderson
+50222	Gottfried Kolditz
+50223	David Hand
+50226	Norman Z. McLeod
+50227	Phil Karlson
+50229	Ulu Grosbard
+50232	William Wyler
+50236	Sofia Coppola
+50239	Alan Hale
+50245	Mitchell Leisen
+50246	Norman Taurog
+50247	William R. Kowalchuk Jr.
+50249	J. Gordon Edwards
+50250	Marshall Nielan
+50252	Daniel Petrie
+50253	John Farrow
+50256	Clive Donner
+50258	Arthur Allan Seidelman
+50259	Robert Zemeckis
+50263	Em Cooper
+50264	Armand Mastroianni
+50269	Álex de la Iglesia
+50270	Rob Letterman
+50271	Edward Buzzell
+50272	Marshall Neilan
+50273	Larry Semon
+50276	Alfonso Cuarón
+50278	Paul Morrissey
+50279	Terence Fisher
+50280	Sidney Lanfield
+50285	Joseph M. Newman
+50287	Raoul Walsh
+50289	Daniel Haller
+50291	Rowland V. Lee
+50293	Gordon Douglas
+50294	John Ford
+50297	Alfred L. Werker
+50298	Gene Wilder
+50299	Mark Tapio Kines
+50301	William Dieterle
+50303	Edward Cline
+50305	Hamilton Luske
+50306	Alfred Hitchcock
+50307	Roberto Benigni
+50308	Victor Schertzinger
+50312	Ahmed Imamovic
+50315	Eddie Cline
+50317	Dorothy Arzner
+50318	A. Edward Sutherland
+50319	Deems Taylor
+50320	James Algar
+50321	Ralph Fiennes
+50322	Dwight Hemion
+50323	Arthur Rankin Jr.
+50324	James Naughton
+50325	Preston Sturges
+50326	Arthur Lubin
+50327	Charles Barton
+50329	Dan Klores
+50330	Roy William Neill
+50331	Arthur B. Woods
+50333	Glenn Ficarra
+50334	Joe Johnston
+50337	George Waggner
+50338	Simon Wincer
+50339	Gary Leva
+50340	Charles Reisner
+50346	Jim McBride
+50347	Orson Welles
+50348	Sam Armstrong
+50350	Tommy Chong
+50351	Storm Thorgerson
+50353	Irving Rapper
+50354	Ray Enright
+50356	Jesse Hibbs
+50357	Jim Ballantine
+50359	Harold Young
+50360	Rob Cohen
+50362	John Warren (II)
+50363	Billy Wilder
+50367	Henry King
+50369	Zoltan Korda
+50370	Darren Aronofsky
+50372	Robert Mandel
+50375	Rainer Kaufmann
+50377	Alan Johnson
+50378	Asia Argento
+50379	Anatole Litvak
+50380	Robert Siodmak
+50382	Gunther v. Fritsch
+50383	Oliver Schmitz
+50384	Lon Chaney
+50385	Anthony D.P. Mann
+50387	Paul Schrader
+50392	Guy Hamilton
+50393	Elliott Nugent
+50401	Michael Carreras
+50402	Will Dixon
+50404	Sandra Lindo
+50405	Clint Eastwood
+50406	Les Mayfield
+50408	Alexandre Aja
+50412	Martin Weisz
+50415	Warren Beatty
+50416	Wolfgang Petersen
+50420	Andrew Marton
+50422	Philip Gardiner
+50423	Pierre Granier-Deferre
+50424	Charles Vidor
+50426	Fritz Lang
+50428	Mike Nichols
+50431	Hector Babenco
+50432	George Sidney II
+50434	Amy Holden Jones
+50439	Stanley Donen
+50441	Ryan Little
+50442	Wes Craven
+50444	Curtis Bernhardt
+50445	Philip Kaufman
+50446	Don Siegel
+50447	Jeffrey Blitz
+50448	Robert Wise
+50455	Rod Hardy
+50460	George Tillman Jr.
+50461	Tony Gerber
+50463	Michael Lehmann
+50464	Victor Rambaldi
+50465	Montxo Armendáriz
+50466	David Slade
+50471	Otto Preminger
+50472	Michael Switzer
+50474	Wilfred Jackson
+50477	Jeffrey Dupre
+50478	Lawrence Jordan
+50479	Jacques Tourneur
+50481	John Cromwell
+50483	Teddy Chen
+50484	Don Bluth
+50485	Andrew V. McLaglen
+50491	George Seaton
+50493	John Byrum
+50494	Tay Garnett
+50497	Peter Bogdanovich
+50498	Kar Wai Wong
+50500	Delmer Daves
+50502	Shainee Gabel
+50504	Larry Ferguson
+50505	Richard Kaplan
+50506	Max Ophüls
+50507	Douglas Sirk
+50508	Jeff Kurtti
+50510	Lee Tamahori
+50513	Xiaoning Feng
+50517	Helmut Schleppi
+50521	Vincente Minnelli
+50522	Il Lim
+50523	Frank Tashlin
+50528	Fred Zinnemann
+50529	Gore Verbinski
+50531	Julian Jarrold
+50532	Nadia Tass
+50533	Andrew Davis
+50537	Fred M. Wilcox
+50539	Alan Grint
+50541	John Berry
+50542	Anthony Mann
+50543	Robert Rossen
+50545	Lois Weber
+50546	Steven Zaillian
+50549	Ron Underwood
+50550	Stephen Marshall
+50553	Nicolas Roeg
+50554	Kevin Tenney
+50556	Warwick Thornton
+50558	Cecil B. DeMille
+50560	David Koepp
+50562	Maggie Kiley
+50563	David Butler (I)
+50564	Jake Schreier
+50565	Jesús Franco
+50569	Clyde Geronimi
+50570	Kenneth Branagh
+50571	Mark Rosman
+50572	Nicholas Ray
+50573	George Schaefer
+50575	Andrew L. Stone
+50577	David Gordon Green
+50579	Joseph L. Mankiewicz
+50580	Justin Eugene Evans
+50582	John Magary
+50584	Walter Lang
+50585	Adam Shankman
+50586	Compton Bennett
+50588	J. Lee Thompson
+50589	Barry Sonnenfeld
+50590	Steve Boyum
+50591	Victor Saville
+50597	Charles Shyer
+50599	Shawn Levy
+50601	Edwin L. Marin
+50604	Sam Pillsbury
+50610	Howard Higgin
+50612	Scott Derrickson
+50614	Tim Burton
+50615	Lee Sholem
+50617	Rudolph Maté
+50619	Harry A. Pollard
+50620	William Dear
+50626	Elia Kazan
+50628	Alex Segal
+50630	Robert Parrish
+50631	Raymond De Felitta
+50632	Charles Crichton
+50633	Fred Brannon
+50634	Volker Schlöndorff
+50637	Peter Markle
+50641	Florian Opitz
+50643	Gary J. Tunnicliffe
+50646	Frank A. Cappello
+50648	Steve Miner
+50650	Nate Meyer
+50651	Herbert Brenon
+50652	Douglas Camfield
+50655	Frank Borzage
+50656	David Lynch
+50659	George Sidney
+50661	Boris Berzner
+50662	Ray Ashley
+50663	Paul Verhoeven
+50666	Emile Edwin Smith
+50671	Johnnie To
+50673	Steven Spielberg
+50675	Jack Arnold
+50676	Gary Yates
+50677	Bob Grosse
+50682	Tony Scott
+50684	William Cameron Menzies
+50685	Tobe Hooper
+50686	Laslo Benedek
+50687	André De Toth
+50688	Jaume Collet-Serra
+50690	Boris Sagal
+50693	Jeff Bleckner
+50694	Bruce Beresford
+50695	Charles Bryant
+50696	James Cruze
+50701	David Moreau
+50702	Andrew Tsao
+50705	Sydney Pollack
+50711	Sherman A. Rose
+50713	John M. Stahl
+50717	Anita W. Addison
+50718	Bobcat Goldthwait
+50721	Harry Beaumont
+50725	Brad Peyton
+50728	John Paizs
+50729	Stanley Kubrick
+50730	Stanley Kramer
+50733	Robert Altman
+50735	Edward Dmytryk
+50749	Melvin Frank
+50750	Darrell Rooney
+50752	Ron Oliver
+50753	Robert Aldrich
+50754	Peter Spirer
+50760	Cecil B. De Mille
+50761	William Beaudine
+50764	Chris Renaud
+50766	Richard Brooks I
+50769	Ben Stiller
+50771	Richard Rich
+50773	Ben Hecht
+50780	Andrew Niccol
+50781	Edward Bernds
+50782	Joshua Logan
+50784	Brad Bird
+50785	Quentin Tarantino
+50786	Bryan Singer
+50788	Shusuke Kaneko
+50790	Ishirô Honda
+50791	Franc Roddam
+50793	Manfred Waffender
+50794	Kurt Neumann
+50797	Gary Goldman
+50800	James Mangold
+50801	Fred F. Sears
+50804	David Lean
+50805	William Friedkin
+50806	Sidney Lumet
+50808	Patrice Leconte
+50809	Agnès Varda
+50816	Robert Stevenson
+50818	Tyler Perry
+50822	Charlton Jacob Jacques
+50826	Karel Kachyna
+50827	Corinne Marchand
+50829	Bob Fosse
+50831	Henry Levin
+50832	Elmo Williams
+50833	Budd Boetticher
+50840	George Pal
+50841	Chuck Russell
+50844	Jack Hofsis
+50845	Andy Lau
+50846	David Cronenberg
+50847	Jean-Hugues Anglade
+50849	Richard Brooks (VI)
+50851	Melville Shavelson
+50853	Peter Sasdy
+50854	David Lowell Rich
+50856	Julian Wolff
+50858	Fred Niblo
+50866	Eric Larson (II)
+50869	George Archainbaud
+50870	Eric Brevig
+50874	Joon-ho Bong
+50876	Brian Robbins
+50878	Jeffrey Schwarz
+50879	Richard Eyre
+50884	Kevin Brodie
+50888	Roger Spottiswoode
+50892	Olga Malea
+50893	George Marshall
+50894	Paul Wendkos
+50896	Edward Ludwig
+50898	David Greene
+50900	Gus Van Sant
+50901	Ivan Passer
+50904	Miguel Ángel Vivas
+50908	F. Gary Gray
+50909	Ken Annakin
+50910	Antoine Fuqua
+50912	George McCowan
+50913	John Sturges
+50916	Steve Pink
+50917	David Swift (II)
+50918	Luis Buñuel
+50920	John Lee Hancock
+50921	Jerome Robbins
+50922	John Carpenter
+50923	John Frankenheimer
+50925	Bert I. Gordon
+50927	David Winters
+50928	David DeCoteau
+50929	Frank Oz
+50930	John Wayne
+50933	Steve Beck
+50935	Simon Wells
+50938	Brian Smith (XV)
+50939	Ronald F. Maxwell
+50940	Christian E. Christiansen
+50941	Wayne Kramer
+50943	Kai Cheung Chung
+50944	Joseph Sargent
+50950	Ashwani Dheer
+50951	Nancy Meyers
+50952	Stephen Herek
+50957	Adrian Lyne
+50958	David Miller
+50961	Stuart Gordon
+50962	Kihachi Okamoto
+50963	Daniel Mann
+50964	Shan Nicholson
+50965	Lee Toland Krieger
+50967	Seth Kearsley
+50970	Jack Clayton
+50971	Martin Scorsese
+50974	James B. Clark
+50978	Jonathan Miller
+50980	James Neilson
+50981	David Bowers
+50982	Norman Tokar
+50983	Eugene Marner
+50984	Bill Condon
+50985	Jean-Paul Rappeneau
+50987	Judd Taylor
+50990	Gary Trousdale
+50994	Martin Ritt
+50998	Mark Waters
+51001	Mary Murphy
+51002	Robert Mulligan
+51003	Stephen Eckelberry
+51004	Blake Edwards
+51007	David Silverman
+51008	Fletcher Markle
+51009	Chad N. Walker
+51014	Don Chaffey
+51016	Noah Baumbach
+51017	Nima Nourizadeh
+51018	Chris Weitz
+51019	Walerian Borowczyk
+51020	John Herzfeld
+51021	Gary Griffin
+51028	Jan de Bont
+51031	Ralph Nelson
+51035	Arthur Penn
+51036	Andrew Mogel
+51039	Nicholas Webster
+51045	Phil Swearngin
+51049	Franziska Buch
+51050	John G. Blystone
+51051	Ubaldo Ragona
+51053	Ralph Levy
+51057	William Nicholson
+51062	Marcus Cole
+51066	Eugen York
+51067	Bernhard Wicki
+51068	Don Weis
+51070	Stephen Daldry
+51071	Jack Couffer
+51072	Tom McGowan
+51074	Tamra Davis
+51083	Harold Warren
+51084	Sidney J. Furie
+51085	Sumeep Kang
+51086	Ondi Timoner
+51087	Richard Brandes
+51088	Zack Snyder
+51089	Christopher Nolan
+51090	Anna Muylaert
+51091	Tom Gries
+51092	Pedro Almodóvar
+51093	Ed Harris
+51095	George Roy Hill
+51096	Richard Fleischer
+51097	John Sayles
+51098	Burt Kennedy
+51101	Lee H. Katzin
+51103	Winrich Kolbe
+51105	Mel Brooks
+51106	Marty Callner
+51109	Norman Jewison
+51113	Stephen Sommers
+51118	Franklin J. Schaffner
+51120	Neil Simon
+51121	Jessica Hausner
+51122	Matt Reeves
+51123	Gene Saks
+51125	Mike Figgis
+51126	Genndy Tartakovsky
+51129	Zeke Anders
+51130	Sam O'Steen
+51131	Walter Hill
+51132	Mike Judge
+51133	Bob Rafelson
+51134	Ralph C. Bluemke
+51137	Roman Polanski
+51138	Emmanuel Itier
+51139	George A. Romero
+51140	Peter Brook
+51141	Brian Herzlinger
+51142	Peyton Reed
+51143	Peter Yates
+51145	Gene Kelly
+51146	Sam Peckinpah
+51149	Kenneth Bowser
+51150	Penelope Spheeris
+51154	Joel Coen
+51156	D.A. Pennebaker
+51158	John McTiernan
+51159	George Englund
+51160	Daniel Lindsay
+51161	Lynn Roth
+51162	William A. Graham
+51164	Peter Medak
+51166	Tom Laughlin
+51167	Martin B. Cohen
+51168	Guy Ferland
+51170	Stuart Orme
+51171	Isshin Inudou
+51172	William A. Fraker
+51174	Akira Kurosawa
+51183	Irvin Kershner
+51184	Robert Vincent O'Neill
+51186	Paul Miller
+51190	Eyal Sivan
+51191	Gabriel Clarke
+51195	Woody Allen
+51200	Stephen T. Kay
+51205	Geoffrey Wright
+51206	Justin Kurzel
+51207	Gordon Parks
+51208	Shannon Harvey
+51209	George Lucas
+51211	John Singleton
+51213	Clark Howat
+51214	Charles Robert Carner
+51215	Sergei Goncharoff
+51216	Freddie Francis
+51218	Marvin J. Chomsky
+51220	Douglas Trumbull
+51221	Serge Rodnusky
+51222	Susan Seidelman
+51223	Kevin Hooks
+51224	Francis Ford Coppola
+51227	Richard C. Sarafian
+51229	Robert Butler
+51230	George Foster Platt
+51232	Irwin Allen
+51234	Blessy
+51235	Sara Blecher
+51236	John Boorman
+51237	John Putch
+51238	Michael Winner
+51239	Simon West
+51240	Ronald Neame
+51241	William Grefe
+51242	Jan Harlan
+51244	Ralph Bakshi
+51245	Dennis Iliadis
+51246	Gilbert Adler
+51247	Ellen Novack
+51248	Charles B. Pierce
+51250	John Musker
+51252	Ari Novak
+51254	Mark Rydell
+51255	John Flynn
+51256	Roger Donaldson
+51257	Michael Jenkins
+51260	Peter Farrelly
+51265	Barry Levinson
+51268	Jeremy Kagan
+51270	Jerry Schatzberg
+51271	John Irvin
+51273	Wolfgang Reitherman
+51275	William Peter Blatty
+51276	Renny Harlin
+51277	Ridley Scott
+51279	Gary Winick
+51284	Michael Apted
+51285	Alejandro Jodorowsky
+51287	Vincente Stasolla
+51289	Joseph Ruben
+51290	Phil Mendez
+51291	John Pirozzi
+51293	Hermine Huntgeburth
+51299	Bill L. Norton
+51300	Roland Emmerich
+51303	Buzz Kulik
+51304	Monte Hellman
+51307	Scott Cooper
+51308	Peter Segal
+51314	Breck Eisner
+51315	Michel Gondry
+51320	Bing Crosby
+51322	Belinda Sallin
+51326	J.J. Abrams
+51329	Larry Cohen
+51333	Peter Davis
+51334	Ralph Ziman
+51338	Jim Wynorski
+51339	Lyman Dayton
+51340	Steve Carver
+51341	Seth Gordon
+51343	John Mikulak
+51345	Vincent McEveety
+51349	Joe Alves
+51350	Jeannot Szwarc
+51352	Jim Sharman
+51354	Hal Ashby
+51358	Michael Flynn
+51359	Gary McKendry
+51360	Paul Bartel
+51361	Paul W.S. Anderson
+51363	Jack Smight
+51371	John G. Avildsen
+51374	Joseph Kosinski
+51379	Umberto Lenzi
+51380	Richard Linklater
+51381	David Carson
+51384	David Hackl
+51385	David Sheldon
+51386	Kimberly Peirce
+51387	Michael Ritchie
+51388	Melanie Mayron
+51389	Gary Nelson
+51391	Mark Waters (VIII)
+51392	David Fincher
+51393	Lewis Schoenbrun
+51394	John English
+51397	Don Taylor
+51398	Richard Donner
+51399	John Moore
+51400	Damian Lee
+51406	James Wilson
+51407	Beverly C. Sebastian
+51408	Burt Reynolds
+51411	Robert Lewis
+51412	David Lowery
+51417	Jon Turtletaub
+51421	John Waters
+51422	Bao Nguyen
+51423	Faith Akin
+51427	John Cassavetes
+51431	Victor Salva
+51432	Tibor Takács
+51434	George Butler
+51435	Alex Haworth
+51437	Richard Stanley
+51440	Robert Clouse
+51442	Mark L. Lester
+51443	Oliver Hellman
+51448	Thomas Wartmann
+51450	Alan Parker
+51452	Edward H. Griffith
+51454	James Franco
+51456	Marah Strauch
+51457	Jon Schnepp
+51460	M. David Mullen
+51463	Michael Cimino
+51464	Terrence Malick
+51465	Veit Helmer
+51466	Errol Morris
+51471	Michael Crichton
+51473	Bud Townsend
+51475	Davie Fairbanks
+51481	Tony Gilroy
+51485	Meir Zarchi
+51487	Joe Dante
+51488	Rob Zombie
+51490	Sam Raimi
+51492	Sylvain White
+51496	William Girdler
+51497	Steven R. Monroe
+51498	Lou Adler
+51499	Colin Higgins
+51502	Olivia M. Lamasan
+51503	Alan J. Pakula
+51504	Sylvester Stallone
+51507	James Bobin
+51508	Scott S. Anderson
+51509	Brian Henson
+51513	John Schultz
+51515	Carroll Ballard
+51516	Carl Reiner
+51518	Richard Benjamin
+51521	David Schmoeller
+51523	Wayne Wang
+51527	Hiroki Shibata
+51528	J.-P. Valkeapää
+51529	David Schrader
+51531	Matt Thompson
+51532	Giulio Paradisi
+51534	Katarina Schröter
+51540	Eric Walter
+51542	Andrew Douglas
+51544	Stuart Rosenberg
+51545	Nicholas Meyer
+51546	Fred Walton
+51548	Alejandro Amenábar
+51554	Samira Makhmalbaf
+51555	Menahem Golan
+51558	John Carr
+51559	Alien Castle
+51561	Samuel Fuller
+51565	Richard Lester
+51572	Robert Redford
+51573	Bill Melendez
+51574	Kevin Connor
+51578	Allan Arkush
+51579	Rafael Eisenman
+51584	Insoo Kim
+51585	Randal Kleiser
+51589	Rupert Wainwright
+51590	Richard Elfman
+51593	David Zucker
+51594	Ken Finkleman
+51598	Harold Ramis
+51600	Garry Marshall
+51601	David Brückner
+51603	Sean S. Cunningham
+51606	Greydon Clark
+51608	James Glickenhaus
+51609	Eric Karson
+51610	Arnold Laven
+51612	Kevin Tancharoen
+51613	Robert Iscove
+51614	Lewis Teague
+51615	James Bridges
+51616	Marcus Nispel
+51617	Darren Lynn Bousman
+51619	Jacques Audiard
+51620	Phil Rosen
+51623	Louis Leterrier
+51626	Tommy Lee Wallace
+51627	Michael Toshiyuki Uno
+51629	Ken Wiederhorn
+51632	Lawrence Kasdan
+51636	Jim Kammerud
+51637	Jay Russell
+51638	Frank Beyer
+51641	Frederik Du Chau
+51642	Mark Herman
+51643	Michael Wadleigh
+51644	Takeshi Fukunaga
+51646	Tim Miller
+51647	Ivan Reitman
+51650	Harold Becker
+51652	John Roecker
+51653	Joe Swanberg
+51656	Carl Gottlieb
+51658	Joseph Losey
+51659	Howard R. Cohen
+51660	Fred Olen Ray
+51661	Ernst Hofbauer
+51664	Patnaik R.P.
+51665	Tony Maylam
+51667	Asif Kapadia
+51668	Bob Clark (III)
+51670	Buster Keaton
+51674	Nicholas Stoller
+51675	Ken Hughes
+51676	Chris Columbus
+51677	Steven Hilliard Stern
+51679	Carlo U. Quinterio
+51681	Tom DeSimone
+51682	Bruce Pittman
+51683	Fede Alvarez
+51684	Ron Peck
+51687	Jeff Lieberman
+51688	Bruce Malmuth
+51689	Graham Baker
+51690	Brian D Clark
+51691	Murray Nossel
+51693	Terry Ingram
+51694	Ousa Khun
+51696	David Steinberg
+51697	Andrew Bergman
+51698	Rodney Ascher
+51702	Herb Freed
+51703	Vincent D'Onofrio
+51704	Jason Winer
+51705	Spike Lee
+51707	Dick Sebast
+51711	Jeremy Podeswa
+51712	Peter Hedges
+51713	Philippe Martinez
+51714	Juan Piquer Simón
+51718	Rob Marshall
+51719	Tony Richardson
+51722	Tian Yu Zhao
+51723	Martin Campbell
+51724	Will Gluck
+51725	Brian Muehl
+51726	John Milius
+51727	Andrew Jones
+51728	George P. Cosmatos
+51729	Ted Kotcheff
+51731	Gil Kenan
+51738	Catherine Hardwicke
+51739	Roland Joffé
+51740	John Lasseter
+51741	John Luessenhop
+51742	Tim Hunter
+51743	Steven Lisberger
+51744	Deborah Brock
+51746	Amy Berg
+51748	Gil Junger
+51750	Doug Campbell (II)
+51752	Peter DeLuise
+51753	Don Coscarelli
+51757	Jason Zada
+51758	Ellen Cabot
+51760	Robert J. Rosenthal
+51761	Barbara Toennieshen
+51762	Dave Diamond
+51766	Matías Piñeiro
+51767	Adrian Loveland
+51770	Graeme Clifford
+51771	Jack Sholder
+51772	Dick Richards
+51774	Uwe Boll
+51775	T.J. Scott
+51776	Fran Rubel Kuzui
+51777	Michael Gornick
+51779	Harry Bromley Davenport
+51782	David Yates
+51783	Marek Koterski
+51784	Mike Newell
+51788	Joe Giannone
+51790	Edgar Lockett
+51791	Stuart Gillard
+51794	Martyn Burke
+51795	Jackie Raynal
+51797	John Korty
+51798	Edward Zwick
+51799	Rick Rosenthal
+51802	Zak Levitt
+51803	Martha Coolidge
+51804	Michael Bay
+51805	Curtis Hanson
+51806	Alan Rudolph
+51807	Brian Netto
+51813	Amy Heckerling
+51814	Scott P. Levy
+51818	Jeremiah Chechik
+51822	James Signorelli
+51823	Douglas McKeown
+51824	Milan Konjevic
+51825	Jean-Luc Goddard
+51827	Kyeong-hyeong Kim
+51828	Noel Black
+51831	Michael A. Simpson
+51837	William Brent Bell
+51839	Cordell Barker
+51840	Casey La Scala
+51841	Michael Laughlin
+51842	James Ivory
+51843	Morgan J. Freeman
+51845	Richard Franklin
+51848	Lloyd A. Simandl
+51849	Sam Firstenberg
+51850	Paul Nicholas
+51851	Martin Kitrosser
+51852	Lee Harry
+51856	Alex Sichel
+51858	Alan Taylor
+51859	James Cameron
+51862	McG
+51864	Paul Feig
+51865	Matthew Diamond
+51866	Jean-Marc Vallée
+51873	Martin Brest
+51877	Charles E. Sellier Jr
+51878	Sergio Leone
+51881	John Carl Buechler
+51882	Albert Band
+51884	Charles Band
+51885	Joe Roth
+51888	François Ozon
+51891	Ron Howard
+51892	Jean-Jacques Annaud
+51898	Craig Brewer
+51901	Jonathan Nossiter
+51903	Milos Forman
+51906	Neal Israel
+51907	Jerry Paris
+51908	Hugh Wilson
+51911	Stephen Cornwell
+51912	Richard Tuggle
+51913	Peter Hyams
+51918	Douglas Cheek
+51919	Jackie Kong
+51920	Stewart Raffill
+51923	Fred Schepisi
+51924	Robert Benton
+51925	Howard Zieff
+51926	Robert Epstein
+51927	Guy Magar
+51928	Donald P. Borchers
+51931	Robert Day
+51932	Fritz Kiersch
+51936	Meghan O'Hara
+51938	Jarmo Lampela
+51942	Jean Renoir
+51943	Dan Curtis
+51946	Daniel Attias
+51947	Gilbert Moses
+51949	Kamel Sina
+51951	Brian Helgeland
+51954	Babbar Subhash
+51958	John Hughes
+51967	Rod Daniel
+51968	Victor Ordoñez
+51971	Ueli Steiger
+51974	Peter Weir
+51976	Savage Steve Holland
+51981	Lupu Pick
+51984	Marcel Sisniega
+51987	Kevin Reynolds
+51989	Brian Yuzna
+51992	Benson Lee
+51994	Curtis Harrington
+51996	Tom Holland
+51998	Craig Gillespie
+51999	Zhang Ming
+52001	Matthew Thompson
+52002	Bryan W. Simon
+52003	Jonathan Karsh
+52004	David Dobkin
+52008	John Antonelli
+52009	Lewis MacAdams
+52010	Curt Worden
+52011	Greg Pritikin
+52014	Dan O'Bannon
+52016	Bill Morrison
+52017	Céline Sciamma
+52018	Flip Van der Kuil
+52020	David S. Cass Sr.
+52025	Ken Harrison
+52027	Héctor Olivera
+52028	Charles B. Griffith
+52031	Bobby Jean Leonard
+52033	Jack Bender
+52034	Albert Brooks
+52035	Cedric Sundstrom
+52040	Lisa Fruchtman
+52047	Jeffery Scott Lando
+52051	Karel Reisz
+52054	Hamish Rothwell
+52058	Jayson Thiessen
+52059	Michael Granberry
+52065	Jim Henson
+52066	David Seltzer
+52068	Larry Latham
+52069	Jessica Bendinger
+52076	John Bowker
+52077	Oliver Stone
+52078	David Sherbrook
+52080	Kristine Peterson
+52081	Mick Garris
+52089	David Anspaugh
+52090	Martin Prakkat
+52092	Anand Tucker
+52097	Gary Davis (II)
+52100	Robert Harmon
+52102	Dave Meyers
+52105	Wim Wenders
+52108	Ken Harrison (II)
+52111	Nia Vardalos
+52112	Kenneth Johnson
+52118	Adam Parrish King
+52120	Jan Nemec
+52123	Fielder Cook
+52124	Alan Metter
+52125	Peter Manoogian
+52126	Tom Moore
+52129	Jeff Lew
+52130	Keith Gordon
+52134	William Fruet
+52136	Phil Flores
+52137	Genie Joseph
+52138	Jerry Jameson
+52139	P.J. Pesce
+52140	Siddiq Barmak
+52141	Howard Deutch
+52142	Wenn V. Deramas
+52144	John Wells
+52147	James Foley
+52148	Joel Schumacher
+52153	John Glen
+52154	Nimród Antal
+52155	Alex De Rakoff
+52161	Derick Martini
+52162	Paul Michael Glaser
+52164	Shane Black
+52169	Michael Gottlieb
+52178	Emile Ardolino
+52180	Jack Webb
+52182	Joe Chappelle
+52185	Robert C. Ramirez
+52198	Hirokazu Ichimura
+52199	Chris Hunt
+52200	Michael Elliott
+52202	Kyle Patrick Alvarez
+52204	Jean-Luc Godard
+52205	Luigi Falorni
+52209	Gary Sherman
+52210	Je'Caryous Johnson
+52214	Dimitri Logothetis
+52216	Terence H. Winkless
+52217	Guy Norris
+52220	Lance Henriksen
+52223	Russell Mulcahy
+52225	Harley Cokeliss
+52227	Pat O'Connor
+52229	Colin Nutley
+52230	Leah Meyerhoff
+52233	Jorge Michel Grau
+52235	Jalmari Helander
+52237	Jin-ho Hur
+52238	Henry Edwards
+52240	Stephen Frears
+52244	Ashley Olsen
+52245	Greg Beeman
+52247	Dwight H. Little
+52248	Charles Grosvenor
+52257	Alejandro González Iñárritu
+52258	Len Wiseman
+52260	Leo Birinsky
+52262	Roger Holzberg
+52265	David Hughes
+52267	Geoff Murphy
+52268	George Scribner
+52269	María Ripoll
+52271	Homi Adajania
+52273	Dennis M. Lynch
+52278	Mickey Gilbert (II)
+52280	Christopher Cain
+52281	Farhad Mann
+52283	Zalman King
+52287	Danny Boyle
+52289	Jessica Wolfson
+52291	Greg Mottola
+52294	Daniel Barber
+52295	Thom Eberhardt
+52299	Ken Kwapis
+52302	Al Adamson
+52303	Frank Henenlotter
+52305	John Fasano
+52311	Lizzie Borden
+52312	Alex Ross Perry
+52313	Newt Arnold
+52319	Sam Shepard
+52326	Daniel Defoe
+52328	Florent Emilio Siri
+52329	Craig R. Baxley
+52330	Vic Sarin
+52331	Shannon Hartman
+52332	Tony Randel
+52341	Andrey Zvyagintsev
+52343	Patrick Gilmore (III)
+52347	David S. Ward
+52350	Enzo G. Castellari
+52353	Buddy Hackett
+52356	Danny DeVito
+52357	Daniel R. Wolfe
+52364	Mary Lambert
+52365	Werner Herzog
+52368	Roger Waters
+52369	Roger Waters the Wall
+52372	Stewart Sugg
+52379	Frank Kerr
+52380	Phil Alden Robinson
+52381	Jeff Blyth
+52383	David Webb Peoples
+52384	Jean Negulesco
+52386	Rowdy Herrington
+52387	James Redford
+52389	Eric Lartigau
+52390	Joel Zwick
+52393	Christopher Guest
+52394	Patrick Creadon
+52395	Tom Ropelewski
+52399	Scott Spiegel
+52400	William Lustig
+52402	Dominique Othenin-Girard
+52403	Alfred Sole
+52404	David Lee Fisher
+52405	Ken Jacobs
+52409	Brian De Palma
+52414	Hal Hartley
+52415	Henry Jaglom
+52418	David Worth (II)
+52420	Ericson Core
+52424	Jay Karas
+52425	Ma Wu
+52427	Ricky Laprade
+52429	Joe Pytka
+52432	Chris Walas
+52433	Vikram Bhatt
+52435	Doug Liman
+52439	Stephen Hopkins
+52441	Gregory Plotkin
+52442	Colin Strause
+52444	Dave Green
+52446	Uli Edel
+52447	Jerry Zucker
+52448	Jonathan Liebesman
+52456	John Howley
+52457	Maryo J. De los Reyes
+52458	Robert Simonds
+52467	J.P. Simon
+52468	Eric Meza
+52470	George O'Hanlon
+52471	Barbara Knudson
+52472	Michael Caton-Jones
+52484	Alan Bates
+52485	Brent Maddock
+52489	Reginald Hudlin
+52490	Doug McHenry
+52491	Nils Gaup
+52493	Phil Joanou
+52494	Don Lusk
+52499	William Hanna
+52501	Penny Marshall
+52504	Mimi Leder
+52506	Katherine Gilday
+52511	Franco Amurri
+52512	Robert Resnikoff
+52513	Alessandro Pivo
+52518	Dyan Cannon
+52519	Stefano Milla
+52522	Sheldon Lettich
+52523	Martin Sheen
+52529	Luis Puenzo
+52530	Benoît Pétré
+52531	Paul Soriano
+52533	Mick Jackson
+52539	Michael Pressman
+52542	Luke Greenfield
+52543	Johannes Roberts
+52548	Harvey Frost
+52549	Fred DeCordova
+52550	Robert Lieberman
+52552	Jim Abrahams
+52553	Georges Méliès
+52554	Terry Gilliam
+52555	Kathryn Bigelow
+52560	William Cooke
+52561	David Semel
+52562	Barry Zetlin
+52567	Jerry Sangiuliano
+52572	Billy Chan
+52576	David Twohy
+52580	Tom DiCillo
+52581	Tom Mankiewicz
+52589	Simon Nuchtern
+52591	Deborah Odell
+52594	Lee Friedlander
+52600	David Mallet
+52601	Dino Risi
+52602	Jon Turteltaub
+52603	Stephen Surjik
+52604	Charles T. Kanganis
+52605	Paul A. Kaufman
+52606	Sean McNamara
+52611	Sam Weisman
+52614	Amos Kollek
+52615	Stephen Stafford
+52621	Paris Barclay
+52622	Ernest R. Dickerson
+52623	David M. Evans
+52628	Brian Levant
+52629	Chil-in Kwon
+52630	Christian Ditter
+52631	Phillip Noyce
+52632	Andy Romano
+52634	Cameron Crowe
+52635	Sara Sackner
+52636	Barbet Schroeder
+52638	Bill Duke
+52640	Arch Nicholson
+52642	Michael Behagen
+52644	Andy Lauer
+52653	Fred Lerner
+52654	Robert Heath
+52660	Dallas Jenkins
+52662	Lee Unkrich
+52663	Phil Roman
+52666	Francis Veber
+52669	Takashi Miike
+52671	Bernard Rose
+52678	Seth Green
+52682	John Hyams
+52686	Kevin Dunn
+52689	Dwight Little
+52693	Robert M. Leeds
+52694	Nickolas Dylan Rossi
+52696	Michael Polish
+52700	Jonathan Demme
+52704	Martin Cummins
+52705	Robert De Niro
+52707	Allen Hughes
+52708	Robert Child
+52713	Ebrahim Hatamikia
+52716	Kirk Douglas
+52717	Ole Bornedal
+52718	Mario Van Peebles
+52719	Jim Sheridan
+52722	Steve Barron
+52725	Joss Whedon
+52732	Yurek Bogayevicz
+52735	Nick Castle
+52738	David Giancola
+52753	Alex Winter
+52755	Kinji Fukasaku
+52756	Wen Jiang
+52759	Frédéric Berthe
+52761	Abel Ferrara
+52762	Frank Marshall
+52764	Gus Trikonis
+52765	Zach Helm
+52766	Simon Fellows
+52767	Anthony Minghella
+52771	Jason Hewitt
+52776	Taylor Hackford
+52778	Gregory Hatanaka
+52779	Jon Watts
+52782	Giorgio Stegani
+52784	Alain Corneau
+52786	George Langworthy
+52788	Brad Anderson
+52789	Israel Luna
+52790	George Sluizer
+52791	Marc Ickx
+52792	Bradley Raymond
+52793	Terence Marcel
+52795	John Dahl
+52796	Roger Allers
+52797	Jim Henley
+52799	Carl Franklin
+52801	Russ Parr
+52806	Ruby Yang
+52807	Bruce Joel Rubin
+52809	Luis Llosa
+52811	Terry Zwigoff
+52812	Tom Shadyac
+52813	Ng See Yuan
+52816	Randall Wallace
+52817	Robert F. McGowan
+52819	John Bradshaw
+52823	Greg MacGillivray
+52825	Troy Miller
+52826	J.B. Rogers
+52827	Miguel Llansó
+52828	Bobby Farrelly
+52836	Constantine Nasr
+52838	Frank Darabont
+52842	Paul Landres
+52845	Kevin Smith
+52846	Michael Lembeck
+52849	Alex Proyas
+52850	John Pasquin
+52853	Philip Ridley
+52856	Tom McCarthy
+52858	Ron Shelton
+52859	Ted Demme
+52863	George T. Miller
+52864	Alex Gibney
+52866	Jason Reitman
+52868	Peter MacDonald
+52870	Claudio Fäh
+52872	Elaine John Constantine
+52873	Luca Bercovici
+52874	John Stockwell
+52878	Victoria Sloan
+52884	Adam Rifkin
+52886	Doris Wishman
+52887	Jerry P. Jacobs
+52888	Gisaburo Sugii
+52889	Andrzej Bartkowiak
+52890	Steven Ayromlooi
+52893	Steven E. de Souza
+52902	Danielle Gardner
+52905	Crystal Moselle
+52907	Shane Ryan
+52915	Carla Garapedian
+52917	Chelse Swain
+52918	Matt Cunningham
+52919	Eric Goldberg
+52924	Peter W. Kunhardt
+52925	Clara Mamet
+52936	Ian Harrowell
+52938	Edgar Reitz
+52941	Nadeem Soumah
+52942	Virgil W. Vogel
+52945	Brad Silberling
+52947	Thomas Balmès
+52949	Chris Noonan
+52950	Robert Rodriguez
+52954	Kevin Lima
+52955	Kevin Costner
+52958	John R. Leonetti
+52962	Osamu Fukutani
+52963	Marius A. Markevicius
+52964	Avi Nesher
+52965	Stacy Title
+52966	Peter Hewitt
+52968	Irwin Winkler
+52970	Mel Gibson
+52971	Mark Joffe
+52975	Victor Sjöström
+52976	Robert G. Vignola
+52977	Hsiao-hsien Hou
+52981	John Llewellyn Moxey
+52984	Jodie Foster
+52985	Andy Hurst
+52986	Andy Tennant
+52987	Jon Amiel
+52993	Peter Bate
+52995	Philippe Falardeau
+52998	Ian Corson
+53002	Michael Baumgarten
+53005	Anouk Whissell
+53015	Duncan McLachlan
+53016	Christopher Ashley
+53023	Jane Arden
+53025	John N. Smith
+53026	George Clooney
+53028	Steven Soderbergh
+53030	David Salle
+53031	Brian Gibson
+53033	David O. Russell
+53034	Geoffrey Sax
+53038	Jon Avnet
+53039	Joseph Merhi
+53042	Trent Cooper
+53051	Mark Becker
+53052	Alain Delon
+53054	Andrew Fleming
+53057	Mario Andreacchio
+53058	Andrew Sipes
+53062	Jonathan King
+53065	Shyam Madiraju
+53066	Mia Hansen-Løve
+53067	Wallace Worsley
+53070	John Cherry
+53074	Rick King
+53076	Kriv Stenders
+53077	Dan Golden
+53079	P. J. Pesce
+53082	Doug Lefler
+53085	Viktors Ritelis
+53088	Christopher McQuarrie
+53091	Nicholas Hytner
+53092	Douglas Barr
+53093	Gregory Hoblit
+53096	Ernest Dickerson
+53097	Philipp Stölzl
+53098	Chel White
+53100	Charles Russell
+53101	Mae Czarina Cruz
+53104	Edward Burns
+53108	Alan James
+53109	Lee Sung-Gang
+53112	Ethan Coen
+53116	Ralph E. Portillo
+53117	Michael Almereyda
+53118	Frederick Wiseman
+53119	Tom Hanks
+53122	Julien Temple
+53123	Marc Silver
+53125	Ami Canaan Mann
+53126	Thomas Carter
+53127	Howard Franklin
+53130	Bronwen Hughes
+53133	Adam Coleman Howard
+53134	Karen Moncrieff
+53136	Carl Theodor Dreyer
+53139	Nora Ephron
+53140	Susanne Bier
+53142	Bruce Neibaur
+53143	George Pappas
+53144	Douglas McGrath
+53150	Jerry Lewis
+53151	John Woo
+53157	Michael Hoffman
+53167	Sandy Tung
+53168	Alan Shapiro
+53170	Ki-duk Kim
+53178	Peter Hewitt (I)
+53181	Brian Trenchard-Smith
+53182	Piero Schivazappa
+53185	Jean-Claude Van Damme
+53189	Nicole Holofcener
+53191	J.T. Petty
+53193	Reginald LeBorg
+53197	Jack Hill
+53200	Shinji Higuchi
+53205	Pietro Francisci
+53208	Brett Ratner
+53209	Danny Cannon
+53210	Francis Lawrence
+53211	René Clément
+53212	Jim Gillespie
+53214	Guillermo del Toro
+53216	Mark Pavia
+53219	Harry Dean Stanton
+53224	Lee Karaim
+53225	Charles Martin Smith
+53226	Gary Fleder
+53228	Brandon Kimber
+53229	Thomas Schlamme
+53230	Paul Thomas Anderson
+53231	Tom Tykwer
+53233	Sebastian Niemann
+53234	Gillies MacKinnon
+53236	Phil Tippett
+53239	Chih-Hung Kwei
+53240	Robert Adetuyi
+53251	Larry Elikann
+53252	Michael Moore
+53255	Jean-Pierre Jeunet
+53257	Abe Leviton
+53260	Helen Hunt
+53261	???
+53262	Tim Story
+53263	Frank Paur
+53267	Mark Dippé
+53268	Fred Gerber
+53271	Mel Smith
+53272	Steve Bendelack
+53273	Hervé Palud
+53274	Roberto Benabib
+53275	Fred Guiol
+53278	David McVicar
+53279	Joseph Anthony
+53281	James L. Brooks
+53285	Pete Docter
+53292	Harmony Korine
+53296	Dena Seidel
+53297	Daniel Peddle
+53304	John Keitel
+53306	Richard Talmadge
+53308	Costa-Gavras
+53309	Mark Sobel
+53311	Fernando Cortizo
+53312	Ernie Fusco
+53314	Robert Duvall
+53315	Jonathan Lynn
+53316	Joan Carr-Wiggin
+53317	Tsui Hark
+53319	Leigh Janiak
+53320	Findo Purnomo HW
+53321	Robert Pulcini
+53322	Tom Sanchez
+53332	Barry Cook
+53333	Brenda Chapman
+53334	David Lister
+53339	Bronson Pinchot
+53342	Anthony Bell
+53343	Jules Bass
+53348	Stuart Baird
+53350	Shinobu Yaguchi
+53352	Spike Jonze
+53353	John McNaughton
+53354	Carl Rinsch
+53356	Frank Coraci
+53357	Hidetomo Matsuda
+53363	Stig Bergqvist
+53366	Larry Peerce
+53367	Jennifer Jessum
+53368	Lloyd French
+53370	Alan Berliner
+53371	Bill Kowalchuk
+53372	Kizo Nagashima
+53374	M. Night Shyamalan
+53375	Neil LaBute
+53383	Jerry London
+53384	Graeme Campbell
+53387	Shekhar Kapur
+53396	Pauly Shore
+53399	John Roberts
+53404	Genlin
+53407	Ryuhei Kitamura
+53408	Todd Solondz
+53409	Abbas Mastan
+53415	Gareth Edwards
+53421	Jamie Blanks
+53428	Jose Quintero
+53430	Peter Chelsom
+53433	John Madden
+53435	Youssef Britel
+53436	George Gallo
+53437	Scott Ziehl
+53438	Luis Mandoki
+53440	Reinhard Klooss
+53444	Rob Minkoff
+53451	Roger Kumble
+53454	Robert Dhéry
+53455	Sam Mendes
+53456	Pat Verducci
+53457	Larry Wachowski
+53460	Anthony Hickox
+53462	Jennifer Baichwal
+53467	Allan A. Goldstein
+53473	Steve Rash
+53475	James B. Rogers (II)
+53477	Andrew Tennant
+53479	Naresh Malhotra
+53481	Abdel Kechiche
+53485	Sturla Gunnarsson
+53487	Dennis Dugan
+53488	Dean Parisot
+53491	Davis Guggenheim
+53493	Eric Mueller
+53495	Shira Piven
+53499	Ari Sandel
+53500	Julien Nitzberg
+53506	Alex Pillai
+53508	Franklin Schaffner
+53514	Anton Corbijn
+53516	Nate Adams
+53518	Malcolm D. Lee
+53522	Ashton Root
+53524	Shelby McIntyre
+53525	J.S. Cardone
+53526	Frank Whaley
+53528	Jim Ormond
+53532	David Kellogg
+53533	Ang Lee
+53534	Michael Dougherty
+53537	Craig Clyde
+53538	Lasse Hallstrom
+53542	Jim Fall
+53550	Arthur Hiller
+53553	Tahmineh Milani
+53555	Dante Tomaselli
+53556	Bruce McCulloch
+53564	Pablo Ferro
+53567	Philippa Karmel
+53568	Chris Cooper
+53569	Jay Roach
+53570	Chuck Jones
+53572	Justin Kerrigan
+53578	Daming Chen
+53580	Keenen Ivory Wayans
+53583	Edet Belzberg
+53584	Joe Charbanic
+53586	Gavin Hood
+53588	Boaz Yakin
+53591	Claudio Faeh
+53593	Elijah Moshinsky
+53594	Carlos Saldanha
+53596	Guy Ritchie
+53598	Betty Thomas
+53600	Joel Edgerton
+53605	Donald Petrie
+53613	Todd Phillips
+53614	Tim Iacofano
+53616	Michael Macari Jr.
+53620	Jennifer Lopez
+53621	Joseph Bull
+53623	Ross Whitaker
+53626	Matt Williams
+53627	Gaspar Noe
+53632	Ib Melchior
+53633	Harry Horner
+53634	Mary Harron
+53635	Antony Hoffman
+53636	Lars von Trier
+53639	Reg Traviss
+53641	Michael Morrissey
+53643	Dean Semler
+53647	Jean-Claude La Marre
+53650	Des McAnuff
+53651	Paul Sapiano
+53652	Nick Hurran
+53655	Morgan
+53656	David R. Ellis
+53657	Stephen Metcalfe
+53663	James Gray
+53666	John Whitesell
+53667	Reggie Hudlin
+53671	Carl Colpaert
+53672	Michael Dinner
+53674	Don McBrearty
+53675	Victoria Jenson
+53676	Juan Carlos Zapata
+53680	Jessie Nelson
+53683	Eric Hendershot
+53685	Rose Troche
+53689	Sean Penn
+53690	Adam Simon
+53691	Conrad Vernon
+53692	Chris Miller
+53693	Peter Webber
+53694	Hans Zimmer
+53697	Stanley Tucci
+53703	Russell Bates
+53704	John Davis
+53707	Carlo Ludovico Bragaglia
+53714	Larry Guterman
+53721	Robert Luketic
+53722	Charles Herman-Wurmfield
+53724	Dominic Sena
+53730	Adam Brooks
+53740	Richard Kelly
+53741	Robert Scheerer
+53742	Guy Crawford
+53745	Karan Malhotra
+53747	Richard Kelly (II)
+53749	Bob Byington
+53750	Larry Clark
+53752	John A. Davis
+53753	Jez Butterworth
+53755	Mark Griffiths
+53759	Fatih Akin
+53763	Josef Steiff
+53766	Leslye Headland
+53771	Justin Lin
+53773	Ilka Jarvilaturi
+53777	Barry Skolnick
+53780	Chakri Toleti
+53784	Tony Goldwyn
+53787	Alastair Reid
+53790	Zion Myers
+53792	Paul Donovan
+53794	Jennifer Jason Leigh
+53796	Claude Lelouch
+53798	Katja von Garnier
+53804	Patrick Lussier
+53811	Kevin Fair
+53812	Chris Wedge
+53813	Christopher Sanders
+53823	Ashim S. Samanta
+53824	Vijay Anand
+53826	Eli Roth
+53827	Marc Webb
+53833	Jeff Reichert
+53835	Frank Urson
+53838	Marc Evans
+53841	Jonas ?kerlund
+53848	Nacho Cerdà
+53850	Stephen Gaghan
+53854	Cory Yuen
+53865	Steven Brill
+53866	Tom Dey
+53867	Mark Swan
+53869	Anne Sundberg
+53870	David Nelson
+53873	Kurt Hale
+53881	Marco Schnabel
+53885	Bilge Ebiri
+53886	Kevin Rodney Sullivan
+53887	P.J. Hogan
+53888	Ed Decter
+53895	Daniel Sánchez Arévalo
+53899	Edward Lachman
+53903	Howard E. Baker
+53908	Mort Nathan
+53909	Jim Simpson
+53910	Walt Becker
+53911	David M. Rosenthal
+53912	Bob Swaim
+53914	Adam McKay
+53915	Irene Luszig
+53916	John Schmidt
+53917	Theodoros Angelopoulos
+53920	Craig McCracken
+53925	Steven Shainberg
+53928	Jake Kasdan
+53929	Fisher Stevens
+53935	Helena Bonham Carter
+53936	Tom Brady
+53941	Vernon Sewell
+53942	Andrei Tarkovsky
+53944	John Erick Dowdle
+53945	Mark Robson
+53947	Bruce Hendricks
+53950	Roger Christian
+53952	Rob Walker
+53953	Ben Gluck
+53954	Akio Yoshida
+53956	Ash
+53960	Paul Mayersberg
+53962	Michael Herz
+53965	Jennifer Gorman Buckley
+53966	Don Argott
+53968	Clark Johnson
+53971	Sam Liu
+53978	Ernest Thompson
+53979	Oren Moverman
+53983	Wachowski Brothers
+53984	Peter Chung
+53988	Rafe M. Portilo
+53991	Christopher Showerman
+53992	Alfre Woodard
+53994	Ben Miller
+53995	Dave Kim
+53998	Jon Favreau
+54001	Kevin Allen
+54004	Gary Ross
+54005	Eric Morgret
+54010	LeVar Burton
+54011	Mees Peijnenburg
+54013	Megan Simpson Huberman
+54014	Richard Loncraine
+54015	Chris Messina
+54017	Clare Kilner
+54019	David Jaure
+54020	Bryan Gunnar Cole
+54022	Ross Shuman
+54023	Ringo Lam
+54024	Jim Jarmusch
+54026	Mark Steven Johnson
+54033	William Byron Hillman
+54034	Erin McGinnis
+54039	Todd Graff
+54040	Joe Lynch
+54041	Declan O'Brien
+54042	Rob Schmidt
+54044	David Frankel
+54047	Gregor Jordan
+54049	Matia Karrell
+54053	Jean-Christophe 'Pitof' Comar
+54055	Angelina Jolie
+54063	D.J. Caruso
+54066	James Wan
+54068	Vince Oken
+54069	Christopher N. Rowley
+54070	Ingmar Bergman
+54071	Miguel Arteta
+54074	Tim Hill
+54077	Marc Abraham
+54080	Darren Bousman
+54083	Cedric Messina
+54086	Patricia Riggen
+54087	T.C. Christensen
+54089	Damon Santostefano
+54095	Paul Anderson
+54097	Krzysztof Kieslowski
+54099	Seth Grossman
+54101	János Szász
+54103	Rosshan Andrrews
+54104	Eric Bress
+54107	Paul Haggis
+54108	Brian Caspe
+54112	Ian Holm
+54115	Hayden Schlossberg
+54116	T. Sean Shannon
+54117	JK Realms
+54123	Alexander Payne
+54130	Nae Caranfil
+54132	Robert Vince
+54137	Alexa Davalos
+54138	Shane Carruth
+54139	Debra Granik
+54140	Eric Schaeffer
+54141	Michael Palm
+54142	Edgar G. Ulmer
+54146	Chester M. Franklin
+54148	Marc Munden
+54150	Alexander Mackendrick
+54154	Takashi Shimizu
+54155	Mariel Hemingway
+54160	John Sanford (II)
+54161	Forest Whitaker
+54162	Ji Woo Chung
+54163	David Ogden Stiers
+54165	Lisandro Perez-Rey
+54168	Tennyson Bardwell
+54171	Matthew Leutwyler
+54179	Boon Collins
+54180	Joe Nussbaum
+54184	John Pogue
+54186	David Duchovny
+54188	Frank Miller (II)
+54191	Lee Bonner
+54192	Mat Whitecross
+54194	Fernando Pérez
+54195	Kirk Jones
+54196	Susanna White
+54201	Chris Alender
+54202	Mike Slee
+54203	Richard Gabai
+54205	Brian Gillogly
+54210	Juan Antonio Bayona
+54211	Francis Lawrence (II)
+54216	Alexandre O. Philippe
+54217	Danny Huston
+54218	David Mackenzie
+54219	Tim Fywell
+54220	Steve Carr
+54222	Kees Van Oostrum
+54224	Manish Gupta
+54232	Anne Hathaway
+54236	Jay Chandrasekhar
+54239	Jake Szymanski
+54240	Jesse V. Johnson
+54245	Eddie Mullins
+54247	Tom Bezucha
+54249	Wiebke von Carolsfeld
+54252	Marc Forster
+54254	Macaela Vandermost
+54255	Norio Tsuruta
+54256	Mike Mitchell
+54257	Karl Golden
+54258	John Johnson
+54260	Iain Softley
+54263	David Jacobson
+54265	Bennett Miller
+54266	Bart Freundlich
+54271	Andrew Leman
+54272	Jeff Wadlow
+54273	Matthew Vaughn
+54274	Tom Ellery
+54282	Josh Trank
+54285	Justin Reardon
+54294	Astra Taylor
+54298	Simon Langton
+54303	Blair Hayes (II)
+54308	Su Friedrich
+54311	Jeremy Haft
+54314	Ti West
+54318	David Kendall
+54319	Burr Steers
+54321	Eugene Jarecki
+54322	Amir Valina
+54323	Duane Clark
+54325	Prachya Pinkaew
+54327	Wayne Isham
+54332	Bruce Hunt
+54333	Marshall Curry
+54334	Ben Kingsley
+54336	Mark Mylod
+54339	Rob Bowman
+54342	Tom Clegg
+54344	Richard Boleslawski
+54346	John Curran
+54350	Eric Bross
+54361	Joe Carnahan
+54363	Robert Wuhl
+54368	Tim Johnson
+54372	Ben Bowie
+54374	Jefery Levy
+54380	Scott Speer
+54381	Jon M. Chu
+54383	Anne Fletcher
+54384	Patrick McGuinn
+54387	Noam Murro
+54389	Gabriele Muccino
+54390	Gerard Pullicino
+54395	Eric D. Anderson (III)
+54396	Alejandro Agresti
+54399	Heidi Ewing
+54407	Boyd Kirkland
+54409	Frank Simon
+54414	Kyung Ho Lee
+54416	Dominic Scott Kay
+54417	Daniel Alfredson
+54418	Michael Mayer (VI)
+54426	Colin Hanks
+54427	Carol Morley
+54428	Tamara Friedman
+54431	Ray Gower
+54433	Andreas Dresen
+54434	Bert Kish
+54436	Robert Greenwald
+54439	Gene Nelson
+54440	Wil Shriner
+54441	Barrett J. Leigh
+54443	David Cross
+54448	Chris Robinson (IV)
+54452	Benjamin Fingerhut
+54456	Eric Steel
+54458	Joshua Overbay
+54460	Mike Binder
+54468	Mark Neveldine
+54470	Gilbert Gunn
+54472	Fred C. Newmeyer
+54478	Jason Friedberg
+54481	D.Shone Kirkpatrick
+54483	Josef Rusnak
+54489	Adam Green
+54490	Ricky Gervais
+54492	Steve Oedekerk
+54496	Robin Hardy
+54497	Kati Juurus
+54500	Alejandro Gomez Monteverde
+54505	Mark Linfield
+54509	Cesario Montaño
+54511	Craig Singer
+54516	James Gunn
+54519	Carey Lewis
+54525	Neil Nightingale
+54526	Tommy O'Haver
+54529	Dominique Deruddere
+54532	John Orrichio
+54537	Charles F. Cirgenski
+54543	Maclain Nelson
+54547	Gabor Csupo
+54553	William Clemens
+54555	James Frawley
+54559	Terry Hughes
+54561	Mario Bava
+54564	Adam Gierasch
+54568	Benny Boom
+54571	Bertrand Tavernier
+54575	Brian Taylor
+54576	Denzel Washington
+54578	Jonas Quastel
+54579	Mennan Yapo
+54580	Judd Apatow
+54583	Gaylene Preston
+54587	Terry George
+54591	Joe Wright
+54594	Steven Sawalich
+54597	Zelalem Woldemariam
+54599	Anders Morgenthaler
+54600	Jonathan Baker
+54601	Nadia Conners
+54604	Deepa Mehta
+54605	Sjur Paulsen
+54606	Gina Kim
+54607	Armando Iannucci
+54608	Travis Betz
+54609	Rian Johnson
+54610	Jon Purdy
+54611	George Ratliff
+54613	David Auburn
+54614	Harrison Ellenshaw
+54617	Richard LaGravenese
+54618	Gary Walkow
+54619	Scott J. Gill
+54621	Jake Paltrow
+54622	Sterlin Harjo
+54626	Akiva Schaffer
+54627	Aaron Seltzer
+54630	Brad Coley
+54631	Tom Kalin
+54632	Xavier Gens
+54637	Cédric Klapisch
+54638	Val Guest
+54642	Ariel Schulman
+54643	Oren Peli
+54644	Al Franklin
+54649	Lajos Koltai
+54652	Roy Knyrim
+54656	Gerardo Vera
+54658	Darrell Roodt
+54659	Josh Fox
+54664	David Wain
+54665	Robert Kurtzman
+54666	Garth Jennings
+54668	Michael Hack
+54672	Nick Park
+54677	Jennifer Yuh
+54680	Hiroyuki Yano
+54681	Byron Howard
+54682	James A. Westman
+54687	Daniele Luchetti
+54688	Steve Martino
+54690	Randall Stevens (V)
+54691	Gregory McClatchy
+54692	Bill Bixby
+54694	Peter Berg
+54699	Marcos Siega
+54701	Jeff Nichols
+54702	Sarah Adina Smith
+54706	Craig Mazin
+54711	Peter Flinth
+54713	Peter Cattaneo
+54726	Oxide Pang
+54728	Oxide Pang Chun
+54730	Dennis Lee
+54731	Arturo Domingo
+54733	Brendan Maher
+54734	Jennifer Flackett
+54736	Kirk De Micco
+54737	Billy Parolini
+54738	François Truffaut
+54740	Anthony Leondis
+54741	Mark Roper
+54742	Thymaya Payne
+54743	Kevin Macdonald
+54744	Nicholas Moore
+54747	Lionel C. Martin
+54751	Fred Durst
+54753	Jennifer Chambers Lynch
+54755	Neil Burger
+54761	Simon Ellis
+54762	Gary David Goldberg
+54763	John Simpson
+54764	William Brookfield
+54765	Noemi Weis
+54768	Phyllida Lloyd
+54769	Ramin Bahrani
+54770	Jacob Berger
+54772	Steve Kroschel
+54773	Robert Trachtenberg
+54782	Wallace Worsely
+54788	James Bolton
+54790	Mark Moskowitz
+54791	Jae-rim Han
+54797	Saul Dibb
+54798	Justin Chadwick
+54799	Brandon Walter
+54802	Don Hardy Jr.
+54804	Charles Kinnane
+54808	Kevin Greutert
+54809	Guillermo Amoedo
+54810	Bryan Bertino
+54819	Eric Valette
+54821	Tom Putnam
+54824	Sandy McLeod
+54827	Lina Wertmüller
+54830	Jonathan Dillon
+54831	Allen Ginsberg
+54832	Yen Tan
+54833	Howard McCain
+54835	Kris Pearn
+54836	Jack Cornish
+54842	John August
+54853	Albert Parker
+54858	Jonathan Frakes
+54862	Ben Palmer
+54864	Louie Psihoyos
+54866	Dean Hamer
+54870	Macario De Souza
+54872	Dan Mazer
+54875	Yoichi Sai
+54876	Ben Ramsey
+54877	Luis Berdejo
+54879	Ben Lewin
+54880	Jonathan Mostow
+54885	Jae-goo Yoon
+54887	Richard Gale
+54891	Dito Montiel
+54894	John Lyde
+54899	Karey Kirkpatrick
+54901	Stephen Tolkin
+54903	Peter Spierig
+54904	Shawn Maurer
+54905	Lyndon Chubbuck
+54906	Angeliki Giannakopoulos
+54908	Rodrigo García
+54911	Steve Mims
+54913	Dagen Merrill
+54915	Yash Chopra
+54917	Edward D. Wood Jr.
+54920	Shlomi Eldar
+54925	Javier Aguirresarobe
+54927	Ezna Sands
+54928	Brandon Camp
+54929	Atom Egoyan
+54931	Duccio Chiarini
+54937	Bob Badway
+54943	The Guard Brothers
+54949	Bhandit Thongdee
+54951	George Mihalka
+54954	Marcus Dunstan
+54955	Curt Hahn
+54956	David S. Goyer
+54957	Stewart Hendler
+54958	Sophie Barthes
+54965	Rich Moore
+54968	Marc Fienberg
+54969	Bill Paxton
+54970	Michael Greenspan
+54972	Daniel Espinosa
+54974	Deon Taylor
+54975	Ivan Zuccon
+54976	Conor McMahon
+54978	Álvaro de Armiñán
+54979	Gonzalo López-Gallego
+54980	Olatunde Osunsanmi
+54986	Isaac Florentine
+54987	Pierre Coffin
+54988	Bille August
+54995	Janusz Kaminski
+54999	Michael Stephenson
+55002	Charles Ferguson
+55003	Kwang-shik Kim
+55006	Jeff Malmberg
+55010	Ben Affleck
+55013	Josh Gordon
+55017	Simon J. Smith
+55018	Cameron Hood
+55020	Babaloo Mandel
+55021	Dean DeBlois
+55023	Eisha Marjara
+55024	Peter Hastings
+55028	Bradley Rust Gray
+55029	Andy Cadiff
+55031	Florian Henckel von Donnersmarck
+55032	Jay Lowi
+55034	Nathan Greno
+55035	Thor Freudenthal
+55040	Cirio H. Santiago
+55044	Ed Gass-Donnelly
+55047	Daniel Stamm
+55049	Javier Barbera
+55050	Ethan Maniquis
+55056	Joe Cross
+55058	Claudia Sainte-Luce
+55063	George Tillman Jr
+55068	Peter Sollett
+55069	Julie Anne Robinson
+55071	Caleb Doyle
+55073	Derek Justice
+55074	Billy Corben
+55075	Chico Colvard
+55076	Bryan Michael Stoller
+55078	Andrea Prandstraller
+55081	Gregory Jacobs
+55086	Michael Rowe
+55091	Max Winkler
+55093	Lowell Sherman
+55094	Roger Michell
+55095	Yûji Shimomura
+55099	Carl Bessai
+55101	Lars-Magnus Lindgren
+55103	Robert Schwentke
+55104	Ernesto Díaz Espinoza
+55108	Dick Emery
+55111	Aviva Kempner
+55113	Matt Stone
+55117	Joe Russo
+55121	Burny Mattinson
+55122	Travis Cluff
+55130	Scott Stewart
+55131	Tod Williams
+55136	D.W. Kann
+55138	Jennifer Lee (XXX)
+55143	Mo Abersheid
+55145	J.C. Calciano
+55148	Tom Six
+55149	Todd Strauss-Schulson
+55151	Jeffrey Friedman
+55152	Sam Taylor
+55154	Leslie Small
+55155	Andrew Jarecki
+55157	Massy Tadjedin
+55158	Jay Duplass
+55159	Don McKellar
+55160	Marcus Shawn Williams
+55164	John Cameron Mitchell
+55166	Tarsem Singh
+55169	Daniel Augusto
+55172	John Murlowski
+55175	Stanley Nelson
+55176	Isabel Coixet
+55179	Stephen Quay
+55180	Oliver Bokelberg
+55184	Bruce La Bruce
+55185	Emir Kusturica
+55187	Henrik Ruben Genz
+55189	Azazel Jacobs
+55190	Kelly Asbury
+55191	Jennifer Yuh Nelson
+55206	Roko Belic
+55208	Robert Downey Sr.
+55214	Chris Dowling
+55219	Patrick Reed
+55224	Tiller Russell
+55227	Mikael Håfström
+55228	Matthew Chapman
+55232	Gavin O'Connor
+55239	Greg Berlanti
+55242	Mike Cahill
+55255	Marc Hampson
+55260	Victor García
+55261	Anthony Richmond
+55269	Vivi Friedman
+55272	Eric Styles
+55274	Justin Krumb
+55275	Sean Branney
+55279	Debra Black
+55282	Daniel Barnz
+55284	Ernie Barbarash
+55286	Sam Taylor-Johnson
+55287	Shane Dax Taylor
+55291	Simon Brand
+55295	Jason Aron
+55296	Matt Walsh
+55297	Brian G. Hutton
+55298	Bradley King
+55300	Jim Hayman
+55303	Rene Perez (II)
+55305	Sean Anders
+55307	Aurélien Poitrimoult
+55311	Luc Besson
+55315	Sally Cookson
+55316	Cary Joji Fukunaga
+55320	Antonia Bird
+55325	David Chirchirillo
+55327	Gerry Lively
+55328	Tyler Benjamin
+55330	Rupert Glasson
+55332	Kipp Tribble
+55333	Anne Fassio
+55335	Jennifer Westfeldt
+55343	Antti Jokinen
+55345	Darin Scott
+55350	Michael Biehn
+55351	Kim Seong-hun
+55353	Adam Wingard
+55356	Bill Weber (V)
+55359	Bob Kubilos
+55360	Randolph Kret
+55366	Kenneth Lonergan
+55370	Rob Sitch
+55371	Drake Doremus
+55372	Elgin James
+55373	Sam Jaeger
+55379	Benjamin Kahlmeyer
+55381	Shunji Iwai
+55382	Eric Steven Stahl
+55383	Paul Schneider
+55384	Michael Paul Stephenson
+55387	Kazuhiro Soda
+55388	Kirby Dick
+55389	Michael Sucsy
+55395	Sara Hirsh Bordo
+55396	Daniel Duran
+55399	Hugh Hudson
+55412	Larry Charles
+55414	Petra Costa
+55415	Bobs Gannaway
+55417	Amos Posner
+55427	Martin Stellman
+55429	Kay Cannon
+55430	Christopher Coppola
+55432	Stefan Ruzowitzky
+55433	Jason Moore
+55434	Tom Donahue
+55435	Elizabeth Banks
+55436	Måns Mårlind
+55438	Russ Meyer
+55440	Andrew Stanton
+55441	Jeff Nichols (VI)
+55443	Jon Hurwitz
+55444	Björn Stein
+55448	Eric Champnella
+55449	Timothy Armstrong
+55450	William Lau
+55451	Tony Tilse
+55457	Carter Smith
+55459	Sam Friedlander
+55463	James Keitel
+55469	Havana Marking
+55472	Shari Springer Berman
+55473	Jon Kasdan
+55474	James Ponsoldt
+55477	Elvis Restaino
+55479	Amos Gitai
+55480	Rupert Sanders
+55486	Christopher Neil
+55488	Adam Lipsius
+55489	Charles de Lauzirika
+55497	Jason Wise
+55498	William Hale
+55499	Scott Hester
+55500	Michael Powell
+55501	Stig Björkman
+55505	Todd Haynes
+55506	Tony Aloupis
+55508	Arvin Brown
+55513	Jim Donovan
+55515	Seth MacFarlane
+55518	Mark Tonderai
+55524	Pete Travis
+55526	Paul Dugdale
+55529	Ciaran Foy
+55530	David Blair
+55532	Josh Schwartz
+55536	Inon Shampanier
+55538	Christopher Smith
+55540	Ahron Keshales
+55545	Simon Barrett
+55546	Andy Capper
+55548	Alice Rohrwacher
+55550	Giacomo Battiato
+55551	Justin Benson
+55554	Linda Otto
+55555	Jeremy Gardner
+55556	Matthew Robbins
+55557	Apichatpong Weerasethakul
+55558	Carlos Ruíz Ruíz
+55560	Igor Drljaca
+55563	Bill Ross IV
+55564	Roger Goldby
+55565	Marc Lawrence
+55566	Peter Nicks
+55567	Dan Sallitt
+55568	Maxim Korostyshevsky
+55569	Hal Walker
+55574	David Jung
+55575	Harvey Weinstein
+55579	Rodney Gibbons
+55580	J.C. Chandor
+55581	Kô Nakahira
+55583	Kenton Vaughan
+55584	Steven C. Miller
+55586	Dan Scanlon
+55587	Joaquin Perea
+55589	Tommy Wirkola
+55590	Steve Perry
+55591	Stuart Heisler
+55593	Todd Burrows
+55594	Chris Sanders (III)
+55596	Chris Sanders
+55602	Heddy Honigmann
+55606	Neill Blomkamp
+55608	Klay Hall
+55616	Callan Brunker
+55619	Gregg Russell
+55621	Roy Frumkes
+55622	Jimmy Hayward
+55625	Jose Antonio Vargas
+55628	Steve Rahaman
+55634	Nacho Vigalondo
+55635	Josh Johnson
+55638	Josh Moody
+55641	Seth Rogen
+55644	Rob Kuhns
+55648	Gia Coppola
+55652	Daniel Schechter
+55656	Jason Hull
+55659	Justin Zackham
+55663	R.L. Scott
+55666	Lorene Scafaria
+55667	Edgar Wright
+55669	Jonathan Glazer
+55671	Michael Dorsey
+55673	Stefan Schaefer
+55674	Rodrigo Cortés
+55676	Suki Hawley
+55679	Zal Batmanglij
+55681	Adam Rodgers
+55692	Robert Markowitz
+55693	Christopher Wilcha
+55695	Bill Eagles
+55697	Ken Scott (V)
+55699	Michael Tiddes
+55707	St. Clair Bourne
+55708	E.L. Katz
+55709	Eric England
+55713	Curtis Graham
+55717	Michael Arias
+55720	Shinichirô Watanabe
+55723	Nana Ekvtimishvili
+55728	Frank Perry
+55730	Gary T. McDonald
+55731	Yael Melamede
+55732	James Vanderbilt
+55734	Jason Strouse
+55736	DMW Greer
+55740	Billy Ray
+55741	Estlin Feigley
+55743	Jenée LaMarque
+55746	Lake Bell
+55748	Jean-Claude Lord
+55750	Gabriel Deloach
+55754	John Krokidas
+55757	Aldo Garay
+55759	Derek Lee
+55768	Lili Fini Zanuck
+55769	Douglas Aarniokoski
+55772	Steven Knight
+55779	Christopher Saint Booth
+55780	Wojciech Has
+55782	Richard Lang
+55785	Alan Brown
+55789	Tim Disney
+55793	Bayley Silleck
+55796	Jeff Burr
+55798	Glenn Silber
+55802	Paul Morrell
+55804	Greg Augustine
+55805	Talya Lavie
+55806	Saket Chaudhary
+55807	Adam Bhala Lough
+55808	Kim Jee-woon
+55812	Mélanie Laurent
+55813	Kathleen Slattery-Moschkau
+55816	Jon S. Baird
+55819	James DeMonaco
+55822	Sean McGarry
+55824	Tara Anaïse
+55825	Nicholas Kalikow
+55829	Claude Chabrol
+55833	Richard Gray
+55834	Anthony DiBlasi
+55837	Irving Pichel
+55840	John R. Cherry III
+55842	Darren Doane
+55843	Daniel Junge
+55845	Phil Lord
+55846	Jon Long
+55848	Peter Cousens
+55849	Adam Traynor
+55850	Andrew Rossi
+55852	Biju Viswanath
+55856	John Kaye
+55857	Craig Monahan
+55859	Caradog W. James
+55861	James Adolphus
+55867	Justin Hostynek
+55871	Wally Pfister
+55876	Liv Ullmann
+55882	Peter Lepeniotis
+55883	Chris Bowman
+55887	Varun Khanna
+55892	Frantisek Vlácil
+55894	Rob Diamond
+55901	Barbara Albert
+55902	Wes Ball
+55904	Dan Gilroy
+55906	Josh Boone
+55909	Juwan Chung
+55910	Nisha Ganatra
+55911	Isaac Feder
+55917	Marc Lawrence I
+55918	Trae Briers
+55921	Zach Braff
+55924	Jorge Grau
+55925	Jesse Zwick
+55926	Mia Goldman
+55930	William Eubank
+55931	Yasuomi Umetsu
+55933	Brian Hutton
+55934	Colin Minihan
+55937	Joany Kane
+55939	Greg Cairns
+55940	Chuck Sheetz
+55943	Gil Cates
+55946	Sabú
+55950	Stephanie Soechtig
+55954	Jerry Warren
+55955	Stevan Riley
+55956	Stuart Beattie
+55957	Khalil Sullins
+55958	Phillip Borsos
+55962	Jay Martin (V)
+55963	Jess Robbins
+55964	Rik Cordero
+55965	Donato Rotunno
+55967	Jody Wheeler
+55970	André Klotzel
+55972	Michèle Ohayon
+55974	Hiroshi Saitô
+55976	Sam Esmail
+55978	Amrit Sagar
+55979	Johanna Hamilton
+55987	Joe D'Amato
+55990	Wen-Han Shih
+55991	Lew Seiler
+55994	Damien Chazelle
+55995	R.J. Cutler
+55997	Joe Kowalski (V)
+56001	Charlie McDowell
+56005	Brian Avenet-Bradley
+56008	Alan Smithee
+56010	Joel Gallen
+56011	Murali K. Thalluri
+56012	Alan Smithee (XX)
+56013	Jean-Jacques Beineix
+56014	Alan Trezza
+56015	Jeremy Snead
+56017	David Tucker
+56018	Tim Garrick
+56019	Rowan Joffe
+56032	Dan Merchant
+56033	David Robert Mitchell
+56035	Aaron Scott Moorhead
+56037	Eduardo Sánchez
+56043	Tom Hammock
+56044	William Dickerson
+56048	Topel Lee
+56051	Alex R. Johnson
+56056	Ben Jehoshua
+56057	Kaige Chen
+56061	Jo Jin-mo
+56066	R.K. Williams
+56069	Amir Bar-Lev
+56076	Rumi Jaffery
+56077	Chris Rock
+56078	Susanna Fogel
+56079	Eric DelaBarre
+56080	Soori
+56082	Peter P. Croudins
+56083	Antoinette Beumer
+56087	Til Schweiger
+56090	Frank Hall Green
+56092	Kevin Lewis
+56095	Kate Barker-Froyland
+56096	Michaël R. Roskam
+56099	Greg Francis
+56101	Radio Silence
+56102	Martín Rejtman
+56103	Yan Han
+56106	Rupert Wyatt
+56107	Bob Dolman
+56108	Lewis Gilbert
+56109	Kane Senes
+56110	Katarina Rue
+56113	Jacques Martineau
+56114	Richard Schenkman
+56121	Tod Harrison Williams
+56126	Zach Clark
+56132	Rachel Davis
+56133	David Yarovesky
+56134	Peter Manus
+56135	Jean-Marc Piché
+56138	Michael Rubbo
+56140	Robert Machoian
+56141	Everardo Valerio Gout
+56142	Dennis Rowe
+56143	Jafar Panahi
+56147	Eric Kissack
+56150	Mark Kokkoros
+56153	Jonathan Klein
+56155	Kyle Dean Jackson
+56156	Lincoln Ruchti
+56157	Danny Pang
+56162	Michael Caulfield
+56164	John Rogers (XVIII)
+56168	Georgi Djulgerov
+56173	Peter Baylis
+56176	Thomas Vinterberg
+56180	Phillip Koolhoven
+56183	Ryan Coogler
+56186	Rawson Marshall Thurber
+56187	J Blakeson
+56188	Bryan Buckley
+56190	Alec Mouhibian
+56191	KANG JE-GYU
+56192	Shaun Monson
+56197	Doug Ellin
+56198	John Requa
+56199	Harsha Wardhan
+56201	Sebastian Junger
+56204	Vandon N. Gibbs
+56209	Johannes Runeborg
+56210	Bill Maher
+56213	Andrew Bujalski
+56215	Kate Davis
+56217	Paul Sen
+56218	Nigel Finch
+56225	Joseph Ariola
+56228	Pyotr Lutsik
+56230	Peter Hutchings
+56235	Paul Seed
+56238	Liam McGrath
+56242	Morgan Neville
+56243	Irene von Alberti
+56245	Zaza Urushadze
+56247	Scott Wheeler
+56249	Menno Meyjes
+56250	Sean Baker (II)
+56252	Les Blank
+56255	Jordan Walker Pearlman
+56258	Tom McGrath
+56266	Michael Schultz
+56268	Adam Egypt Mortimer
+56271	Omar Ashmawey
+56273	Metod Pevec
+56274	Jonah Markowitz
+56288	Mark A.Z. Dippé
+56292	Craig Baldwin
+56297	Damjan Kozole
+56300	Christian Cantamessa
+56301	Antonio Tibaldi
+56304	Ben Wagner
+56305	Alejandro Monteverde
+56306	Kris Swanberg
+56308	Lana Wachowski
+56310	Steven Okazaki
+56315	Peter Avanzino
+56319	Rick Famuyiwa
+56320	Siddharth P. Malhotra
+56324	Shinji Aramaki
+56329	Cecilia Peck
+56331	Jerry Dugan
+56332	Andrew Droz Palermo
+56334	Jean-Pierre Dardenne
+56339	D. Kerry Prior
+56340	Anthony C. Ferrante
+56341	Wrye Martin
+56344	Dan T. Hall
+56345	Jeffrey Delman
+56350	Mike Robe
+56353	?lonore Faucher
+56355	J.P. Walsh
+56357	Michael Boydstun
+56361	Ziad Doueiri
+56362	Charles Stone III
+56367	Christopher Leone
+56368	David Midell
+56371	Adrian Noble
+56373	Robert Cohen
+56374	Megan Mylan
+56378	Daniel Millican
+56380	Pierre Morel
+56381	Michael Shackleton
+56383	Yu-jin Kim
+56386	Jen Soska
+56387	Austin Stark
+56397	Paul Greengrass
+56406	Stephen Norrington
+56407	Jason Scott Sadofsky
+56408	Jeremy Mack
+56413	Jonathan Milott
+56416	Adam Cornelius
+56420	Sean Tiedeman
+56426	Pitof
+56427	Lisa France
+56431	J. Walter Ruben
+56434	Charles Lamont
+56443	William A. Wellman
+56447	William K. Howard
+56449	Cal Brunker
+56455	James Wong
+56457	Fred Dekker
+56458	Mike Flanagan
+56464	Morgan Spurlock
+56466	Andrew Adamson
+56467	Chris Buck
+56468	Mark Dindal
+56473	Eric Darnell
+56475	Paul Mazursky
+56489	Katherine Brooks
+56500	Kenneth Kit Lamug
+56508	Barry Shear
+56510	Arthur J. Beckhard
+56516	Roy Huggins
+56532	Fred C. Brannon
+56537	John Berardo
+56538	Martin Owen
+56542	George B. Seitz
+56546	George Sherman
+56547	Jamie Babbit
+56552	Alex Holdridge
+56556	Frank Miller
+56562	Anthony Russo
+56564	Joan Chen
+56566	Buddy Cooper
+56567	Stephen Carpenter
+56568	Charles E. Sellier Jr.
+56580	Ethan Wiley
+56585	Derek Cianfrance
+56587	George Nolfi
+56590	Kiff Scholl
+56604	Anne Goursaud
+56606	David Di Sabatino
+56607	Tim Gagliardo
+56608	Kevin Swigert
+56610	Jeremiah S. Chechik
+56611	Javier Elorrieta
+56616	Tom Gormican
+56620	Kent Alterman
+56622	Albert Hughes
+56631	Edward L. Cahn
+56632	Lucien Hubbard
+56638	Lionel Barrymore
+56641	William Keighley
+56656	Silvia St. Croix
+56661	Gorman Bechard
+56663	Dennis Devine
+56673	Tony McNamara
+56675	Mora Stephens
+56677	Chad Burns
+56678	Kevin Carraway
+56681	Fax Bahr
+56684	Brice Mack
+56686	Bob Kelljan
+56688	John G. Adolfi
+56695	Billy Kent
+56705	Jesse Baget
+56713	Neil Young
+56714	Paul Crowder
+56715	Joseph B. Vasquez
+56716	Paul Tanter
+56729	Jack Nicholson
+56731	Duncan Jones
+56732	Douglas Hickox
+56743	Mike Justice
+56749	Matthew Ogens
+56750	Matt Mahurin
+56759	Christophe Gans
+56762	Alexandra Codina
+56768	Tyler Measom
+56780	David Strohmaier
+56783	Ian Roumain
+56785	David Gregory
+56794	Michael Mayer
+56795	Seth Kramer
+56799	Martin Bell
+56800	Shawn Holmes
+56801	John Michael Williams
+56805	Philip Haas
+56816	Dan Pascoe
+56818	Aaron Godfred
+56823	Matthew Reel
+56824	Albert Magnoli
+56833	Ian Stout
+56839	York Alec Shackleton
+56840	Gene Fallaize
+56841	Bruce Campbell
+56843	Nathan Juran
+56846	Bob Clark
+56852	Lawrence Guterman
+56857	Mark Brian Smith
+56858	Mark Helenowski
+56859	Alexandra Anthony
+56862	Graham Annable
+56869	Mark Andrews
+56874	Ishi Rudell
+56875	Jody Hill
+56882	Henry Selick
+56885	James Merendino
+56887	Ricki Stern
+56888	David Osit
+56890	Robin Hauser Reynolds
+56892	Dereck Joubert
+56893	Rob Stewart
+56894	Chris Hegedus
+56896	Paul Rachman
+56898	James Westby
+56902	Trey Edward Shults
+56905	Stephen Hillenburg
+56907	Jorge R. Gutiérrez
+56921	Mark Osborne
+56929	Richard Marquand
+56947	Trey Parker
+56969	Mike Gabriel
+56970	Stephen J. Anderson
+56974	Bill Feigenbaum
+56988	Elizabeth Allen Rosenbaum
+56990	Sang-ok Shin
+56992	Bryn Evans
+56997	Richard Cameron White
+56998	Kerry Conran
+57002	Adam Ravetch
+57009	Theo Love
+57014	Vladlen Barbe
+57025	Gregory J. Lanesey
+57026	Gary Rydstrom
+57028	Simon Hung
+57035	Steve Hickner
+57043	Peter Svatek
+57046	Tony Bancroft
+57050	Andy Wachowski
+57056	Richard Attenborough
+57068	William Cottrell
+57074	Jordan Roberts
+57109	Sean Robinson
+57112	Brad Furman
+57126	Steven Baigelman
+57128	George Abbott
+57139	Samuel Armstrong
+57140	Norman Ferguson
+57145	Angela Robinson
+57148	Tim McCanlies
+57151	Joel Souza
+57152	Vince Marcello
+57153	Charlie Kaufman
+57164	Robert Kenner
+57169	J. Stuart Blackton
+57190	Mike Joens
+57192	Cory Edwards
+57210	Lijun Sun
+57211	Barry Mahon
+57214	József Gémes
+57227	Coke Sams
+57231	John Lounsbery
+57242	Daniel Stern
+57254	Evan Goldberg
+57256	Jeremy Garelick
+57263	Stephen Shimek
+57264	Julian Grant
+57266	Darva Campbell
+57267	Teddy Smith
+57270	Michael Damian
+57273	John Rogers
+57277	Steve Royall
+57278	John K.D. Graham
+57279	Darnell Martin
+57283	Tamar Halpern
+57285	Demetrius Navarro
+57291	Christopher Kenneally
+57293	Damien Dante Wayans
+57298	Nardo Castillo
+57305	Mike Thurmeier
+57308	Dan Steadman
+57309	Helene Klodawsky
+57314	Richard LeMay
+57317	Steven Seagal
+57318	mink
+57320	John Gray
+57321	Marilyn Agrelo
+57326	Mitch Dickman
+57327	Angela Sun
+57347	Jim Fitzpatrick
+57348	Linda Shayne
+57351	Fred Savage
+57352	Harold Cronk
+57356	Robert Schwartzman
+57358	Paul Duddridge
+57360	Michael Jai White
+57362	Susan Dynner
+57381	Niki Caro
+57384	George A. Pappy Jr.
+57385	Caryn Waechter
+57389	Jeff Pollack
+57404	Derek Lee Nixon
+57415	Matthew O'Callaghan
+57417	Fred Wolf
+57419	John Suits
+57421	Garin Hovannisian
+57422	Mark Bedrosian
+57430	S.R. Bindler
+57431	Andrew Dominik
+57436	Jonas Åkerlund
+57441	Vincent Gallo
+57444	Roger Paradiso
+57455	Eric Nicholas
+57456	Paul von Stoetzel
+57464	Georgina Lightning
+57469	Christy Cabanne
+57473	Rudy De Luca
+57485	Clint Orr
+57492	Charles Herman-Wurmfeld
+57494	Eric Leighton
+57503	Robert Florey
+57507	Paul Hunter
+57512	Terence Young
+57525	Carol Hughes
+57545	William Shatner
+57546	Carl Miller
+57547	Tommy Kraft
+57548	Jean-Christophe Jeauffre
+57553	Stuart Millar
+57570	Patrick Tatopoulos
+57576	Shane Acker
+57625	Angela Christlieb
+57631	Jordan Susman
+57633	Hironobu Sakaguchi
+57649	Joshua Michael Stern
+57675	Fred Coe
+57683	Malcolm Venville
+57685	Stephen Kay
+57686	Melissa Behr
+57687	Ron Nyswaner
+57695	Edward Sloman
+57710	Dave Fleischer
+57714	Dermot Mulroney
+57718	Thomas Bezucha
+57725	David Tybor
+57736	Cosmo Segurson
+57741	Paul Rocha
+57742	Doug Bilitch
+57744	Dylan Baker
+57746	John Robert Moore
+57748	LeRoy McDonald
+57750	Jo Kastner
+57755	Michael O. Sajbel
+57756	Johnny Gagnon
+57759	Robert Nixon
+57760	Theresa Demarest
+57761	Ronald Colby
+57762	Peter Brown
+57767	James Marsh
+57768	Henry Joost
+57769	Kurt Kuenne
+57772	Jenny Stein
+57784	Antonio Campos
+57796	Bernard McEveety
+57798	Dan Harris
+57815	Paul Bogart
+57816	D.W. Griffith
+57826	John Hamburg
+57828	Peter Howitt
+57830	Stuart Samuels
+57831	Jeff Schaffer
+57840	Erich von Stroheim
+57844	John Stephenson
+57845	Godfrey Reggio
+57847	Sam Fell
+57860	Keanu Reeves
+57862	Michael Rymer
+57880	Steven E. Gordon
+57882	Robert D. Hanna
+57887	Pixote Hunt
+57888	Derek Savage
+57889	Martin Davidson
+57895	Stephen Chiodo
+57898	Stan Ferguson
+57901	Leslie Greif
+57903	Joseph Barbera
+57904	Bob Hathcock
+57905	John Eng
+57907	Cameron Pearson
+57909	Larry Holden
+57919	Robert Taylor
+57923	Nick Louvel
+57949	Masami Hata
+57953	Tom Vaughan
+57958	Ezekiel Norton
+57959	Karen J. Lloyd
+57968	Billy Bob Thornton
+57971	Stan Dragoti
+57995	Christian Vuissa
+57996	Tom Whitus
+57997	Benjamin Gourley
+57998	Cornelia Moore
+57999	Sophia Cacciola
+58000	Lionel Chew
+58001	Howard Klausner
+58003	Michael Crum
+58004	Stephen Langford
+58006	Nancy Criss
+58007	Dave Moody
+58008	John Gatins
+58010	Steve Franke
+58013	Sergey Bodrov
+58022	Gene Feldman
+58026	Ben Stassen
+58028	Brian Kosisky
+58031	Leon D'Usseau
+58037	Courtney Everette
+58038	Berenika Maciejewicz
+58042	John Ward
+58045	Rozemyn Afman
+58048	Daniel Chuba
+58049	David Butler
+58052	Corbin Billings
+58054	Sollace Mitchell
+58055	Tamara Tunie
+58070	Sue Corcoran
+58071	Kevan Peterson
+58074	Joel Fendelman
+58082	Drew Nudi
+58085	Michael J. Sarna
+58090	Norman Foster
+58110	Greg Ford
+58112	Richard Brooks
+58114	Sidney Sheldon
+58117	S. Sylvan Simon
+58119	H.C. Potter
+58133	Chad Stahelski
+58138	Michael Spierig
+58147	Frederick King Keller
+58148	Joseph Pevney
+58150	Ivan Tors
+58151	Harry Lachman
+58160	Roy Rowland
+58200	Brian Stillman
+58201	Alex Stapleton
+58205	Benh Zeitlin
+58206	Glenn Holsten
+58207	Tim Blake Nelson
+58209	William Monahan
+58221	Janice Karman
+58222	Tuck Tucker
+58224	Josh Radnor
+58226	Anna Boden
+58230	Dave McKean
+58241	Tony Goss
+58244	Duncan Pace
+58249	Ted Nicolaou
+58250	Leigh Scott
+58253	Mark Rappaport
+58255	Hal Sutherland
+58256	Cathy Malkasian
+58259	Sean Olson
+58260	Robert Davi
+58265	Marc Rocco
+58268	Robin Budd
+58270	Edward Montagne
+58275	Christopher R. Watson
+58276	Cy Endfield
+58280	Richard Martin
+58283	Scott Sanders
+58284	Lasse Hallström
+58295	Greg Kwedar
+58297	Jonathan Keevil
+58298	Xavier Manrique
+58301	Jack Haley Jr.
+58304	Alex Ranarivelo
+58306	Harley Knoles
+58313	Gary Oldman
+58314	Ariel Vromen
+58324	Allison Burnett
+58326	Rusty Gorman
+58328	David Burris
+58330	Elliott Lester
+58331	Jake Goldberger
+58334	Matthew M. Ross
+58335	Ian Pfaff
+58338	Dan Walker
+58344	Sean Hanish
+58345	Sean Linezo
+58348	Joachim Rønning
+58352	Rebecca Zlotowski
+58367	James Dodson
+58372	David Swift
+58378	William Bartman
+58381	Jay Dubin
+58384	Nikolaj Arcel
+58386	Keith Fulton
+58388	Jason Lew
+58390	Mark Columbus
+58395	Joel Bergvall
+58399	Matt Byrne
+58402	Nicole Kassell
+58403	Naomi Foner
+58409	Mike Mills
+58412	Mark Mann
+58413	Wayne Ewing
+58416	Barbara Peeters
+58417	Jack Speirs
+58419	George Jackson
+58431	Duke Johnson
+58432	Francis Glebas
+58433	Jeremy Saulnier
+58436	J.A. Bayona
+58438	Jack Kinney
+58448	David Rountree
+58453	Rhys Thomas
+58455	Lawrence Roeck
+58459	Sean McGinly
+58473	Dirk Hagen
+58480	Josh Stolberg
+58481	Brent Huff
+58487	Jen McGowan
+58489	Gillian Robespierre
+58494	Vondie Curtis-Hall
+58497	Gary Hardwick
+58509	Kurt MacCarley
+58513	Nick Gomez
+58523	Marcus Koch
+58526	J.R. Bookwalter
+58527	Stephen Chbosky
+58533	Michael Blieden
+58535	William Heins
+58537	Scott Dow
+58538	John Wesley Norton
+58542	C.J. Goodman
+58543	Dylan Thomas Ellis
+58544	Roger Roth
+58549	Arlene Marechal
+58579	Peng Zhang Li
+58584	A. Dean Bell
+58585	Richard Keith
+58588	Pinchas Perry
+58592	Kevin Kolsch
+58593	William Sullivan
+58594	Gabe Ibáñez
+58601	Deran Sarafian
+58603	Nick Pettit
+58605	Gor Kirakosian
+58608	R. Michael Givens
+58614	Danny Steinmann
+58619	Charles Swenson
+58621	John Krasinski
+58625	Stian Hafstad
+58628	Christopher Dillon Quinn
+58634	Clive Barker
+58639	Mary Ann Fisher
+58642	Ellory Elkayem
+58645	Don Handfield
+58646	Anthony Fabian
+58655	D. David Morin
+58658	Kevan Otto
+58665	Peter Masterson
+58672	Jean-Paul Ouellette
+58674	Tom O'Brien
+58676	Ya'Ke Smith
+58680	Nikita Zubarev
+58691	Sheree Le Mon
+58695	Robert Cappelletto
+58709	Youssef Chahine
+58710	Alastair Fothergill
+58717	Katy Chevigny
+58721	Lisa Ades
+58723	Rebecca Chaiklin
+58737	Aaron Woodley
+58738	AJ Schnack
+58739	David Fisher
+58748	John Gulager
+58761	Todd Douglas Miller
+58762	Michael Collins
+58764	Martin Rosen
+58765	Maryam Henein
+58792	Louis J. Gasnier
+58794	James Ronald Whitney
+58802	Christopher Denham
+58803	Pericles Lewnes
+58806	Daniel G. Karslake
+58807	Eugène Lourié
+58809	Chris Smith
+58813	Reginald Le Borg
+58818	B. Luciano Barsuglia
+58822	Dwayne Buckle
+58833	Shira Lane
+58836	Susan Kucera
+58839	Kurt Engfehr
+58841	Fernando Meirelles
+58848	Gary Don Rhodes
+58855	Christian Nyby
+58857	Robert Gordon
+58868	Howard Storm
+58869	W.D. Richter
+58873	Adam Small
+58902	Lance Mungia
+58913	Gerald Mayer
+58920	Ralph Ince
+58934	Destin Daniel Cretton
+58937	Mark Hall
+58938	Sally Rowe
+58939	Art Camacho
+58942	Timothy Woodward Jr.
+58943	Gil Cates Jr.
+58945	Douglas K. Grimm
+58948	Marc Connelly
+58951	Edward F. Cline
+58958	Stuart E. McGowan
+58960	Scott King
+58987	Larry Buchanan
+58989	John D. Hancock
+58992	Robert A. Emmons Jr.
+58996	Jeff Gillen
+59009	William J. Hole Jr.
+59024	Rick Gratzer
+59031	Mel Ferrer
+59040	H. Bruce Humberstone
+59043	Lewis Seiler
+59044	Frank Ryan
+59049	David Hess
+59059	Herman Shumlin
+59061	Mark DiSalle
+59063	Don Jones
+59086	Philippe Darsac
+59088	Marc Francis
+59090	Robert Munic
+59100	David Beaird
+59104	Lisa Gottlieb
+59105	Joe Viola
+59111	Richard Compton
+59118	Jerry Hopper
+59127	Peter Care
+59131	Michael Burke
+59132	Taika Waititi
+59137	Garson Kanin
+59154	Kevin R. Hershberger
+59156	A. Blaine Miller
+59162	Seth Morris
+59163	Dino Paredes
+59167	Michael Mohan
+59174	Kevin Williamson
+59191	Levan Gabriadze
+59195	Leonard Nimoy
+59199	Patty Jenkins
+59200	Roger Lay Jr.
+59202	Craig Sheeler
+59203	Adam Haus
+59204	Harry Winer
+59207	Annabel Jankel
+59219	Olivier Megaton
+59239	Dexter Fletcher
+59249	Michael J. Mantsourani Jr.
+59252	Mark Millhone
+59257	Nick Stagliano
+59260	Dave LaMattina
+59262	Douglas Underdahl
+59267	Gene Quintano
+59269	Pat Proft
+59270	Rick Friedberg
+59283	Lloyd Kaufman
+59292	Ken Scott
+59296	Norman René
+59298	Joe Mantello
+59306	Jeff Adachi
+59311	Taylor Cramer
+59313	Kevin Nations
+59316	Robin Nations
+59325	Steven Quale
+59340	Gary Chapman
+59341	Michael Feifer
+59344	Corey Michael Eubanks
+59353	Frances Marion
+59356	Paul Sloane
+59361	Kent Mackenzie
+59363	Douglas Cheney
+59365	Amariah Olson
+59367	George Melford
+59372	Mickey Keating
+59379	Damien Leone
+59380	Victor Zarcoff
+59387	Garrett Batty
+59390	Giovanny Blanco
+59393	Gaston Méliès
+59397	Thierry Coup
+59402	Patrick Takaya Solomon
+59405	Eric Temple
+59411	Tom McLoughlin
+59419	Tommy Brunswick
+59420	Joe Hollow
+59424	Robert Conway
+59428	Stephen Furst
+59434	Rob Epstein
+59446	Lawrence Lanoff
+59447	Nathan Daniel
+59448	Johnny Meier
+59457	Friz Freleng
+59459	Phil Monroe
+59464	Brian Skiba
+59473	James Isaac
+59474	Louis King
+59478	Toby Genkel
+59479	David Bisbano
+59480	Jay Martin
+59487	Ganit Orian
+59489	Morris Engel
+59498	Jeff Solema
+59500	Tracy Trost
+59503	Craig William Macneill
+59513	Heather Winters
+59515	Willard Carroll
+59518	Roberto Minervini
+59519	Sean Eliot Carlsen
+59522	Daniel Anghelcev
+59524	Alan Rafkin
+59527	Maggie Greenwald
+59528	Todd Tucker
+59537	Ally Walker
+59541	Peter Tewksbury
+59549	Fruit Chan
+59553	Ted Wilde
+59555	Edward Sedgwick
+59563	Gordon Parks Jr.
+59565	Jon Garcia
+59566	James Townsend
+59569	Sean Paul Lockhart
+59571	Rosser Goodman
+59573	Howell Hansel
+59574	Eugene Corr
+59581	Patricio Valladares
+59582	Joanna Coates
+59584	Dawn Porter
+59589	William H. Macy
+59591	Matthew Heineman
+59594	Ciarán Foy
+59597	Lulu Wang
+59599	Justin Simien
+59604	Wych Kaosayananda
+59608	Morten Tyldum
+59615	Steve Loter
+59618	Xavier Koller
+59622	Russ Mayberry
+59624	Henry Winkler
+59627	James Lapine
+59629	Mike Nawrocki
+59631	Anthony Stabley
+59640	Hamilton MacFadden
+59655	François Girard
+59665	Will Canon
+59677	Dean Israelite
+59682	Robert Towne
+59686	Adrian Grunberg
+59688	Joe Kowalski
+59714	Brian Percival
+59720	Kevin Connolly
+59726	Charles Guard
+59733	Paddy Breathnach
+59735	Ashley Raymer-Brown
+59737	Malindi Fickle
+59740	Sarah-Violet Bliss
+59742	Banker White
+59744	Jessie McCormack
+59752	Lewis Helfer
+59753	Dylan Greenberg
+59760	Mary Agnes Donoghue
+59761	Peter Tolan
+59764	Jordan Vogt-Roberts
+59767	Maggie Carey
+59772	Paul Middleditch
+59775	Jugal Hansraj
+59777	Patrick Kennelly
+59778	Dan Berk
+59781	José Manuel Cravioto
+59785	Carl Schenkel
+59786	Peter Carter
+59789	Timothy J. Nelson
+59794	Joey Travolta
+59806	Rondell Sheridan
+59814	David Mamet
+59822	Jason Bognacki
+59823	Justin Suttles
+59824	Ann Tramonte
+59826	Andrew P. Jones
+59827	Mickey Liddell
+59830	Sidney W. Pink
+59832	Erik Fleming
+59846	Tom Savini
+59854	Matthijs van Heijningen Jr.
+59859	BJ McDonnell
+59860	Ricardo Benet
+59862	Douglas Buck
+59863	Craig Kovach
+59878	Daniel Bollag
+59904	Matthew Bolton
+59905	Zach Lipovsky
+59916	Randall Batinkoff
+59918	Andrew Pozza
+59920	Kevin O'Neill
+59924	Kim Henkel
+59930	Richard Wilson
+59939	Abbe Wool
+59946	Dan Ireland
+59952	Richard Pearce
+59972	Valeri Milev
+59975	Alastair Orr
+59976	Chris Sparling
+59982	John Rawlins
+59991	Courtney Solomon
+59994	Paul Leyden
+59996	Lucky McKee
+59999	John 'Bud' Cardos
+60000	James Bryan
+60008	Richard Lerner
+60011	Kurt Jacobsen
+60021	Choice Skinner
+60024	Don Henderson
+60025	Adam Salky
+60026	Arthur H. Nadel
+60030	Joey Stewart
+60035	Patrick Shen
+60037	Tao Ruspoli
+60040	Thorne Winter
+60043	Brian A Miller
+60047	Adam Robitel
+60049	Zachary Donohue
+60052	Russell Crowe
+60056	Ryan Smith
+60059	Brian Jun
+60060	Robert Legato
+60063	Barbara Bell
+60069	Robert Brinkmann
+60079	Paul F. Bernard
+60084	Robert Ellis Miller
+60090	Michael Fischa
+60097	Bernard L. Kowalski
+60103	William Sachs
+60104	William F. Claxton
+60111	Jim Van Bebber
+60119	Bruce D. Clark
+60121	Allan Holzman
+60122	Jack Deerson
+60124	Brad Barber
+60125	J. Davis
+60126	Benjamin Dickinson
+60131	Tim Hetherington
+60136	R.G. Springsteen
+60141	Charles Lederer
+60143	Robert Montgomery
+60145	Raoul Peck
+60150	Joshua Marston
+60154	Craig Zobel
+60155	Seth Grahame-Smith
+60156	Joe Robert Cole
+60157	Josh Adams
+60158	Joe Miale
+60159	Justin Lee
+60161	Brendan Bradley
+60166	Eliza Hittman
+60177	Jocelyn Moorhouse
+60179	Theophilus Lacey
+60186	Blair Erickson
+60189	David Lewis
+60196	Tom Gustafson
+60197	Russell P. Marleau
+60198	Rob Williams
+60202	Wade Gasque
+60203	Mark Bessenger
+60204	Bernard Shumanski
+60206	David Au
+60208	Gary Entin
+60209	Caroline Abbey
+60210	Corey Norman
+60211	Matthew Douglas Grzeszak
+60212	Michael Storch
+60213	David Worth
+60216	Larry Rosen
+60218	Kyle Broom
+60221	Matt Stuertz
+60222	Eric Badros
+60225	Zachary Beckler
+60226	James Tucker
+60227	Jonas Stolpe
+60234	Paul Arnone
+60236	Jeff Sun
+60237	Caleb Deschanel
+60238	John Poliquin
+60239	Michael Cohn
+60245	Jeff Betancourt
+60247	Jennifer Blanc
+60250	Terry Jones
+60254	Elaine May
+60262	Paul Harrill
+60263	Sean Fine
+60265	Iris K. Shim
+60267	Cynthia Hill
+60268	Marta Cunningham
+60274	Laura Poitras
+60276	Marcus Vetter
+60277	Greg Barker
+60278	Michael Camerini
+60279	Gillian Laub
+60280	Thomas G. Miller
+60281	Linda Goode Bryant
+60283	Chad Michael Ward
+60297	Nikole Beckwith
+60302	Trish Sie
+60303	Gren Wells
+60310	Joe Begos
+60315	Justin Kelly
+60316	Luke Rivett
+60318	Rajeev Dassani
+60319	Russell Friedenberg
+60322	James D.R. Hickox
+60327	Jesse Peretz
+60331	Sara Colangelo
+60336	Stuart Blumberg
+60341	Don Scardino
+60343	Shawn Christensen
+60350	Beth Aala
+60351	Helen Stickler
+60352	Jacob Rosenberg
+60354	Stacy Peralta
+60355	Laurie House
+60359	Michael Beach Nichols
+60361	Ned Benson
+60368	Alan Bendich
+60375	Jay Sandrich
+60376	Dan Aykroyd
+60392	Margaret Brown
+60400	Jason Freeland
+60401	Lori Petty
+60402	Guillermo Arriaga
+60403	James Oakley
+60404	Frans Nel
+60410	Alan Cumming
+60411	Joan Micklin Silver
+60422	Joseph W. Sarno
+60429	Larry Hagman
+60432	Damiano Damiani
+60434	Mathieu Kassovitz
+60444	Christopher H. Baum
+60446	Patrick Stettner
+60449	Kirsten Sheridan
+60450	Kelly Makin
+60452	Thaddeus O'Sullivan
+60453	John Swanbeck
+60467	Billy 'Bloody Bill' Pon
+60472	Josh Ridgway
+60473	Timothy J. Aguado
+60475	Dean Jones
+60478	Douglas C. Williams
+60483	Drew Bolduc
+60484	Carlos Rincones
+60486	Terry T. Miller
+60490	Roger Watkins
+60492	Theodore Gershuny
+60493	Romano Scavolini
+60495	Tara Miele
+60496	Gabriela Tagliavini
+60499	Scott Beck
+60501	Jeremy Berg
+60503	Bobby Smyth
+60504	Heather Hale
+60505	Ron Newcomb
+60507	James Mottern
+60508	Jeff Daniel Phillips
+60509	Vito Trabucco
+60510	Evan Cholfin
+60511	Ramone Menon
+60515	Doug Mallette
+60518	Nils Timm
+60521	Craig Efros
+60522	Andy Palmer
+60523	Jose Prendes
+60526	Travis Baker
+60528	Jeremy Lamberton
+60529	Todd Lincoln
+60533	Robert Newman
+60536	Don Mancini
+60540	Ben Cresciman
+60544	Jason Kartalian
+60545	Emile Chautard
+60568	George W. Hill
+60585	Marion Gering
+60602	Howard Hughes
+60606	Mary Stuart Masterson
+60609	Leora Barish
+60619	Bob Giraldi
+60623	Bill Forsyth
+60637	Rene Daalder
+60645	Stephen King
+60652	Dean Chapman
+60672	Adrienne Shelly
+60675	Trisha Gum
+60676	Dana Schroeder
+60684	Brendan Jackson Rogers
+60685	Dick Maas
+60691	Michael Whaley
+60697	Lewis Jackson
+60699	Adrian Selkowitz
+60702	David Stenn
+60704	Angela Ismailos
+60712	Friedrich Wilhelm Murnau
+60715	Mervyn Le Roy
+60716	James Cagney
+60719	René Cardona Sr.
+60722	Arnold Vosloo
+60723	Karl W. Freund
+60727	Dorothy Christy
+60729	Ford I. Beebe
+60737	Albert Rogell
+60739	Raymond K. Johnson
+60742	Louis Friedlander
+60745	Henry Coster
+60746	Thomas Grimm
+60750	Michael Rhodes
+60755	Barbara Lieberman
+60757	Barton MacLane
+60758	David Grubin
+60760	Keith Ingham
+60767	Gregg Godfrey
+60768	Edward N. Buzzell
+60773	Saul A. Goodkind
+60775	Gordon M. Douglas
+60779	Ben Sharpsteen
+60787	Charles 'Chuck' Riesner
+60793	Graham Heid
+60799	Rupert Julian
+60804	Gregg Toland
+60812	Gary Lee Davis
+60813	Amy Jones
+60816	Daniel H. Blatt
+60818	Maxim Pozdorovkin
+60819	Peter Geiger
+60822	Jeff Dupre
+60826	Eugene J. Forde
+60835	Tim Swartz
+60837	Hans Burger
+60848	Gene Kelley
+60850	Tim Reid
+60851	Frank Cappello
+60853	Renata Hrytskova
+60857	Bob Gosse
+60859	Michael De Gaetano
+60864	Bob Goldthwait
+60866	Marcus De Leon
+60870	Bill Baucom
+60871	Frank L. Mankiewicz
+60872	John Stronach
+60875	Yarrow Cheney
+60880	Terry O. Morse
+60883	Jacques Demy
+60885	Gregory Kurczynski
+60886	Chow Hin Yeung Roy
+60888	Gwen Verdon
+60897	Les Clark
+60907	Jeff Newitt
+60908	Brian Keith
+60909	Ashwni Dhir
+60917	Morton Da Costa
+60918	Mary McDonagh Murphy
+60923	Darryl F. Zanuck
+60925	Richard Kwietniowski
+60926	Raksha Mistry
+60929	Sidney Salkow
+60933	Hal P. Warren
+60934	Steven Trenbirth
+60935	Susan Stroman
+60939	Anne Bancroft
+60944	Yvette Kaplan
+60945	Roman Pola?ski
+60946	Emanuel Itier
+60954	Robert Vincent O'Neil
+60956	John McKenna
+60961	Delores Taylor
+60967	John J. Flynn Jr.
+60972	Jeremy Kagen
+60975	Paul Almond
+60979	Phil D'Antoni
+60985	Joshua Safdie
+60986	Konrad Tom
+60987	Ralph M. Like
+60992	Joshua von Brown
+60998	Carl Erik Rinsch
+61000	Bretaigne Windust
+61006	Michael W. King
+61008	Robert Michael Lewis
+61032	Michael Renero
+61035	Renee Barnett
+61038	Phillip Marshak
+61049	Wilfred Lucas
+61065	Gary Kurtz
+61068	Douglas Campbell
+61072	James Glenn Dudelson
+61073	R.M. Richards
+61074	Rudi Liden
+61075	Carrie Nye
+61076	Harry Bromley-Davenport
+61082	Paul Schiff
+61086	Milan Todorovic
+61088	Stephen H. Burum
+61091	Paul Nicolas
+61099	Alex Stevens
+61101	Ed Palmos
+61107	Richard Lerner (II)
+61109	Bobby Leonard
+61113	Edward Muller
+61115	Mick Harris
+61118	Lev Ivanov
+61121	Martin Beck
+61123	Mark Ezra
+61129	David Chaskin
+61133	Bettina Hirsch
+61135	Haruki Kadowawa
+61136	Trevor Nunn
+61137	Gary A. Sherman
+61138	Ben Trandem
+61139	Hur Jin-ho
+61141	Steve Purcell
+61142	Mark Cullingham
+61143	Hang Deok Jo
+61145	Paul Leni
+61156	C.R. Baxley
+61158	Verena Paravel
+61164	Sean Anderson
+61165	Sean Evans
+61170	Richard Zwick
+61171	Will Speck
+61177	David Heavener
+61179	Yvan Attal
+61186	Kevin Kline
+61188	Mark Lipman
+61191	Ray Patterson
+61192	Philip DeGuere
+61197	Alessandro Piva
+61199	Robert H. Lieberman
+61202	David N. Twohy
+61203	Petchtai Wongkamlao
+61204	Maurice Sarli
+61210	Ralph Hemecker
+61212	David Mickey Evans
+61215	Colm Meaney
+61217	Mike Phillips
+61220	Randall M. Miller
+61224	Michael S. Bregman
+61225	Fraser C. Heston
+61227	Mic Rogers
+61234	Chauncey Leopardi
+61235	Nick Castle Jr.
+61237	Wasin Pokpong
+61239	Andrew Bianchi
+61241	Jiang Wen
+61249	Jim Hanley
+61253	See-Yuen Ng
+61259	Frank McDonald
+61260	Bill Elvin
+61262	Robert Talbot
+61277	Robert Vignola
+61280	Paul Talbot
+61281	François Simard
+61285	George Bud Davis
+61287	Sam Cullman
+61291	Wallace Worsley Sr.
+61292	Kirk Wise
+61303	Ralph Portillo
+61305	Tom Kelleher
+61308	Logan McPherson
+61311	María Lidón
+61322	John Diehl
+61324	Christopher S. Rech
+61334	Penny Peyser
+61335	Ronnie del Carmen
+61338	Costa Gavras
+61344	Lynne Southerland
+61347	Bryan White
+61351	Paul Demeyer
+61352	Michael Salomon
+61354	Alfie Scopp
+61359	Abbas-Mustan
+61366	Richard Kletter
+61369	The Wachowski Brothers
+61371	Vladimiros Kiriakidis
+61374	Adam Carolla
+61382	Ben Washam
+61385	Chen Daming
+61390	Darren Paul Fisher
+61391	Peter Sohn
+61392	Mary-Kate Olsen
+61397	Luke Seomore
+61401	Jean Claude Lamarre
+61403	Wong
+61406	Vicky Jenson
+61425	David Espar
+61435	Sholom Rubinstein
+61444	Jared Harris
+61447	Umesh Mehra
+61450	Edward Decter
+61455	Walter Becker
+61458	Kim Jong-ho
+61462	John Thomson
+61466	Benjamin Gluck
+61474	Bert Beatson
+61475	Peter Howitt (II)
+61477	Toby Phillips
+61478	Rajesh Touchriver
+61479	Tom Gianas
+61480	John Thompson
+61488	Joshua Chaiton
+61491	John Sichel
+61492	Sharon Bridgeman
+61496	J. Mackye Gruber
+61497	Corey Johnson
+61498	Jean Smart
+61501	Colm Feore
+61509	Debra Jo Rupp
+61510	Ray Burdis
+61512	Chris Ford
+61519	Christopher Alender
+61526	Anthony Anderson
+61532	Mike Mitchell (VI)
+61535	Andrew H. Leman
+61539	Blair Hayes
+61542	Amir Valinia
+61548	David Peers
+61549	Warren Coleman
+61551	Jill Culton
+61552	Joe Ranft
+61555	Tony Siu-Tung Ching
+61557	Rachel Grady
+61563	Straw Weisman
+61567	Thom Maurer
+61573	Fred Newmeyer
+61578	Sean Weathers
+61582	Mucci Fassett
+61584	Patrick Morris
+61588	John Langan
+61589	Harold Prince
+61593	Eli Edel
+61595	Dania Pasquini
+61598	Leila Conners Petersen
+61600	Deepa Metha
+61603	James Havens
+61609	Amer Shomali
+61614	Chris Williams
+61618	Nicholas Corea
+61619	Sigmund Neufeld Jr.
+61623	Christopher Miller
+61630	Tony Leondis
+61644	Julian Kean
+61646	Baby Jane Holzer
+61651	Joe Wilson
+61652	Sunny Abberton
+61654	Hoyt Yeatman IV
+61658	Rami Danon
+61668	Alfredo Leone
+61675	Kim Kwang-sik-I
+61679	Kyle Jefferson
+61682	Shelly Ziegler
+61707	Chris Lofing
+61711	J. C. Calciano
+61717	Mark Duplass
+61718	Betsy Chasse
+61719	Tarsem Singh Dhandwar
+61722	Brad Lewis
+61725	Robert Downey Jr.
+61732	William Ray
+61735	Anthony B. Richmond
+61738	Gaëtan Brizzi
+61741	Daniel Casey-VanHout
+61746	Shirin Neshat
+61748	Mark Schneider
+61751	Peggy Holmes
+61753	Mark Atkins
+61758	Jeff Farley
+61766	Christina Norris
+61767	Mike McKown
+61768	Angela Bettis
+61774	Carlitos Ruiz Ruiz
+61775	Michael Akers
+61777	Bill Ross
+61780	Bob Weinstein
+61782	William Hill
+61785	Lesley Selander
+61790	Harry Hope
+61793	Nicolás Muñoz
+61797	Bradley Leong
+61798	Matthew Wilson Pond
+61802	Carine Adler
+61805	Michael Galinsky
+61809	St. Claire Bourne
+61811	Imad Noury
+61812	Hiroyuki Okiura
+61814	Irving G. Reis
+61818	Clif Prowse
+61827	Danny Clinch
+61828	Saket Chowdhary
+61835	Darin Ferriola
+61838	Patrick Armbruster
+61843	Nicolas Rossier
+61844	Jonny Rodriguez
+61849	Stephen Witherspoon
+61850	Jr.
+61851	Eric Johnson
+61852	Hiroyuki 'Sabu' Tanaka
+61857	Ivan Thompson
+61864	Jasper Sharp
+61865	Simone Chiesa
+61870	James Bloom
+61876	Ted Melfi
+61880	Olivier Ducastel
+61881	Yvette Hoffman
+61888	Artie Mandelberg
+61895	Carlos E. Ruiz
+61903	Seth Barrish
+61905	David Heilbroner
+61906	John Coffey
+61908	Stephen R. Roberts
+61916	Robert Griffin
+61918	Kar-Wai Wong
+61919	Tatsuya Ishihara
+61922	Pierre-Dominique Gaisseau
+61928	Barry Poltermann
+61929	Jim Forsher
+61930	Jeffrey S. Delman
+61931	Karen Goodman
+61932	Eléonore Faucher
+61933	Elizabeth Chai Vasarhelyi
+61940	Sylvia Soska
+61943	Cary Murnion
+61946	Otto Brower
+61952	Robert Walker
+61961	Joseph Lee
+61970	John Douglass
+61975	Benjamin Christensen
+61976	Hal Roach
+61977	Cliff Owen
+61979	Jonathan M. Goldstein
+61981	George Hickenlooper
+61987	Elias Benavidez
+61998	Michael Schwartz
+62001	Daniel A. Miller
+62002	Julien Duvivier
+62006	Kevin Pang
+62007	Anthony Stacchi
+62018	Malika Zouhali-Worrall
+62022	Angus MacLane
+62039	John Stevenson
+62042	Noelle Benvenuti
+62056	Ward Kimball
+62057	Chris Cook
+62058	Sarah Robertson
+62059	Tom Roberts
+62060	Danny Beard
+62087	Todd Edwards
+62100	Ryuichi Yagi
+62114	Todd Wilderman
+62120	Robert Mitchum
+62124	Christopher Pomerenke
+62125	Loveleen Tandan
+62132	B. Reeves Eason
+62134	Stephen Kijak
+62135	Joshua Ligairi
+62136	Motonori Sakakibara
+62140	Andrew R. Jones
+62141	Sherrie Rose
+62155	Bruce Sinofsky
+62158	Thomas Van Dyke
+62159	Mike de Seve
+62162	Alec Berg
+62164	Dorothy Davenport
+62172	Michael Pakleppa
+62174	Stephen Verona
+62183	Michael J. Epstein
+62196	Ralph Wright
+62205	Don Haldane
+62209	Lisa Marie Gamlem
+62211	Valerie Faris
+62214	Robert Young
+62215	Ryan Fleck
+62227	Lauren Hoekstra
+62235	Linnea Saasen
+62238	Greg Myers
+62240	Michael D. Olmos
+62243	Strathford Hamilton
+62248	Michael Poley
+62251	Daniel St. Pierre
+62261	Brian Barnes
+62264	Keith Scholey
+62265	J. Clay Tweel
+62266	Ross Kauffman
+62287	Peter Stuart
+62293	Anthony Veiller
+62301	Jeff Werner
+62302	Richard Rosson
+62303	Alan Ormsby
+62305	Jean Hewitt
+62306	Edoardo Anton
+62310	Hal Mohr
+62311	Nick Francis
+62318	Lee Sternthal
+62330	Mike Johnson
+62344	Bob Seeley
+62347	Adam C. Caudill
+62349	Jenny Phillips
+62350	Josh Hodgins
+62351	Dan DeLuca
+62359	David Aaron Stone
+62368	Patrick Doughtie
+62369	Jim Roof
+62370	Rod Hewitt
+62373	J.A. Howe
+62379	Kunihiko Yuyama
+62380	Gregory Gieras
+62382	David Bruckner
+62383	Edwin S. Porter
+62387	Ed Wexler
+62393	Albert Zugsmith
+62394	Stav Ozdoba
+62396	Pierre Yves Clouin
+62400	Rachael Yeager
+62402	Anna Fitch
+62407	Robert Olsen
+62409	Mahatma Kane Sumatra
+62410	Chris Spencer
+62411	Gregg Bishop
+62413	Amy Ziering
+62414	Dayna Goldfine
+62416	Neal Sundstrom
+62422	Axelle Carolyn
+62423	Jason Eisener
+62424	Julian Barratt
+62426	Chris Sivertson
+62431	Warren Leming
+62432	Michael Manasseri
+62438	Ernst R. von Theumer
+62444	Emeric Pressburger
+62447	Harry Shumanski
+62448	Tyler Pina
+62450	Austin Keeling
+62451	Tom Zembrod
+62455	Turner Ross
+62457	Andrea Nix
+62459	Lana Wilson
+62466	Randy Redroad
+62468	Mike Myers
+62469	Colin Powers
+62470	Sarah Burns
+62473	Àlex Pastor
+62484	Buddy Giovinazzo
+62492	Ward Wing
+62507	Levi Peretic
+62511	Margaret Livingston
+62513	Brendan Fraser
+62519	Jean-Bapiste Andrea
+62522	Billy Mauch
+62533	Julietta Novis
+62535	Arthur Rankin
+62538	Perce Pearce
+62539	Gunther Fritsch
+62541	Howard R. Hughes
+62547	Alexander Hackenschmied
+62550	Joanna Lipper
+62553	Harry Eden
+62556	Fred McLeod Wilcox
+62561	Mikhail Ulyanov
+62567	Natalie Wood
+62568	Brian Smith
+62569	Cy Raker Endfield
+62570	Cathleen Nesbitt
+62571	Ashwani Dhir
+62574	Jud Taylor
+62584	T.C. Frank
+62585	Julia Szucs
+62593	Daniel Petrie Jr
+62594	Phil May
+62596	Beverly Sebastian
+62597	Robert M. Lewis
+62605	Chris Strompolos
+62606	John Fiedler
+62607	Bob Clampett
+62612	Aaron Lipstadt
+62614	Jeff Woolnough
+62620	Franck Khalfoun
+62622	Michael Attie
+62628	Dom DeLuise
+62630	Peter Litten
+62632	Butcher Brothers
+62636	Lance Hendrickson
+62637	Hoon Chil Joo
+62638	David A. Hughes
+62641	Jason Marin
+62649	Brian Murray
+62651	Judd Nelson
+62652	Damien Harris
+62656	Seth Camillo
+62664	Philip J. Roth
+62665	Michael Hamilton Wright
+62667	Yoann-Karl Whissell
+62668	Jennifer Grausman
+62669	Albert Daumergue
+62670	Arnold Schwarzenegger
+62675	Bigas Luna
+62676	Charlton Heston
+62678	Kris Kristofferson
+62679	Keith David
+62680	Matthew Kennedy (VI)
+62682	Jan Hrebejk
+62684	Cary Elwes
+62685	Stig Bergguist
+62695	Pip Karmel
+62697	Kim Tae-Yong
+62699	T. Sean Herbert
+62700	Ice Cube
+62714	Traudl Junge
+62719	Sydney White
+62724	Jean-Christopher Comar
+62726	Alejandro Chomski
+62728	Beverley Mitchell
+62730	Doug Jones
+62731	Kenneth Graymez
+62732	Anne Heche
+62742	Chazz Palminteri
+62746	Mike Papantonio
+62751	Barrett Klausman
+62752	Dick Van Dyke
+62754	Nicholas Le Provost
+62755	William B. Clemens
+62756	Lance KR Kawas
+62760	James C. Havens
+62766	Don Hardy
+62767	Ronald Weinberg
+62769	Bhavananda
+62773	Rina Barone
+62784	Alan White
+62785	George Dunning
+62786	Rick Schneider
+62787	Shivajee Chandrabhushan
+62801	Shoja Y. Azari
+62803	Stéphane Aubier
+62806	Gadi Harel
+62808	Glenn McQuaid
+62816	Chris Wilcha
+62829	Jan Lachauer
+62830	Michele Thompson
+62832	Roberto Albanesi
+62833	Ron Williams
+62836	Mary Robertson
+62842	Osamu Dezaki
+62843	Paul Johnson
+62844	James Forsher
+62848	Luther Reed
+62849	Ralf Harolde
+62859	Bill Roberts
+62863	Paul Satterfield
+62867	Harry Newell
+62871	Eva Gabor
+62872	Jean Stapleton
+62875	Eric Larson
+62877	Charles Ruggles
+62882	Park Jun Nam
+62885	Debbie Reynolds
+62890	Peter D. Marshall
+62900	Erica Yohn
+62902	Brendan Faulkner
+62903	Steve Rhoden
+62904	Hyun Bo Shim
+62905	Jodi Benson
+62907	Mark Di Salle
+62909	Dana Ivey
+62914	James Earl Jones
+62916	Christopher Hughes
+62917	Philippe Bergeron
+62920	Boby Lapointe
+62924	Dirk Benedict
+62929	Mickey Rourke
+62931	Don Rickles
+62932	Billie Mae Richards
+62936	Jim Fowler
+62938	Richard Jenkins
+62942	Tarsem Duamdwar
+62943	Joel Olicker
+62946	Bob Walker
+62947	Eva Mendes
+62949	Cuba Gooding Jr.
+62950	Greg Wise
+62952	Dina Meyer
+62956	Arliss Howard
+62958	Grace Zabriskie
+62959	Jay Thomas
+62961	Frank A Miller
+62962	Cedric the Entertainer
+62965	Joseph McGrath
+62966	James Belushi
+62967	David Roy
+62974	Brigid Berlin
+62977	Alfred Leone
+62986	Simon Rumley
+62991	Kirk DeMicco
+62997	Torill Kove
+62999	Barny Revill
+63000	Ian Lynch
+63001	Peter Kon Dut
+63002	Kat Dennings
+63005	Kevin J. O'Connor
+63009	Larry Morey
+63013	Jim Handley
+63016	Jason Isaacs
+63020	Rae Allen
+63021	Song Dandan
+63023	Richard Beymer
+63028	John Carradine
+63029	Don Messick
+63030	Donald O'Connor
+63033	Dave Goelz
+63035	Robert Culp
+63037	James Stewart
+63041	Kenneth Mars
+63044	Louis Gossett Jr
+63045	Christian Coleman
+63049	James Coburn
+63052	Duncan Fraser
+63053	Randy Travis
+63056	Paul Freeman
+63058	Burl Ives
+63061	Robert Foster
+63062	Tae-Yong Kim
+63063	John Witherspoon
+63064	Vince Vaughn
+63074	Ewen Bremner
+63075	Karel Roden
+63077	Cameron Bright
+63078	Linus Roach
+63079	Jason Behr
+63082	Deena Adar
+63085	Janeane Garofalo
+63100	Sky Zans
+63101	Donald Sutherland
+63103	Alex Visani
+63111	Oliver Hardy
+63120	Jeremy Sumpter
+63122	Isabel Jeans
+63127	Joanna Barnes
+63129	Kim Jae Joong
+63130	Mary Woronov
+63136	Fritz Weaver
+63139	Mike Nelson
+63140	Nancy Cartwright
+63143	Michelle Nolden
+63144	Glenn Plummer
+63148	James Cromwell
+63152	Richard Masur
+63153	Matthew Kennedy
+63157	Steve Kruschel
+63158	Jean-François Monette
+63160	Kim Whitley
+63162	Noel Buckner
+63168	Kevin McNally
+63169	James Madio
+63170	Emmanuelle Vaugier
+63171	Joseph Rye
+63174	Cara Seymour
+63175	Linus Roache
+63177	Kelsey Grammer
+63179	Emilio Rivera
+63180	Patrick Warburton
+63182	Jonathan Kimmel
+63185	Carmen Electra
+63186	Jackie Chan
+63187	Isabel Jewell
+63189	Danny Trejo
+63191	Dennison Ramalho
+63193	Marcel Sarmiento
+63195	John Larroquette
+63197	Gavin MacLeod
+63200	Jen Peedom
+63203	Rachel Weisz
+63204	Stan Laurel
+63207	Errol Flynn
+63212	Ludivine Sagnier
+63213	Larry Roberts (II)
+63214	Jacques Bergerac
+63216	Ziyi Zhang
+63217	Russ Tamblyn
+63224	Mickey Rooney
+63225	Kathryn Mullen
+63228	Jon Lovitz
+63229	Steven Rhoden
+63234	Steve Anderson (V)
+63236	Mike Vitar
+63237	Jean-Pierre Castaldi
+63238	Robert Pastorelli
+63240	William Sadler
+63241	Thora Birch
+63242	Stephen Lang
+63243	Steven Kostanski
+63245	Corinne Conley
+63253	Jay Leno
+63256	Natalie Imbruglia
+63257	Katie Couric
+63260	Rupert Evans
+63265	Megan Mullally
+63268	Sally Struthers
+63270	Kiefer Sutherland
+63271	Haley Noelle Johnson
+63272	Eddie Griffin
+63277	Erik Matti
+63280	Julie Benz
+63283	Martin Pailthorpe
+63285	Stephen Dunham
+63290	Walt Disney
+63295	John Abbott
+63298	Una Merkel
+63304	Jon Lormer
+63306	Lawrence Steffan
+63307	Rene Auberjonois
+63311	Stephen M. Anderson
+63313	Patrick Renna
+63319	Felix Enriques Alcala
+63326	Joseph E.G. Barrett
+63327	Rowan Atkinson
+63329	Franky G
+63330	Raoul Bova
+63331	Selma Blair
+63332	Joe M. Chalmers
+63333	Thandie Newton
+63334	Ryo Ishibashi
+63339	Richard Kind
+63341	Fred Willard
+63343	John Palmer
+63344	Evelyn Frank
+63346	Evan Katz
+63347	Lolita Davidovich
+63349	Robert Kondo
+63354	Leonard Willey
+63357	Olivia Williams
+63358	Peggy Lee
+63359	Leslie Caron
+63360	Tab Hunter
+63361	Tony Mordente
+63363	William Daniels
+63364	Martha Scott
+63365	Fred Astaire
+63367	Pearl Bailey
+63369	Lisa Raggio
+63370	Samuel E. Wright
+63371	William A. Forester
+63373	Peter Gerretsen
+63374	Steve Anderson
+63376	Tom Guiry
+63381	Jane Seymour
+63383	Tiny Lister
+63384	Susan K. Lewis
+63387	Riley Smith
+63388	Steve Nicolson
+63389	Michael Imperioli
+63394	Vin Diesel
+63401	Will Ferrell
+63403	Randall Duk Kim
+63407	Hajime Ohata
+63408	Michelle Bonilla
+63410	Shuhei Morita
+63411	Nia Long
+63416	Louis Jourdan
+63420	Pamelyn Ferdin
+63423	Sandy Duncan
+63424	Robert Harper
+63427	Jus Addiss
+63434	Jessalyn Gilsig
+63435	Larry Roemer
+63436	Tommy 'Tiny' Lister
+63438	Matt Damon
+63440	Tasha de Vasconcelos
+63441	Peter Falk
+63442	Shawnee Smith
+63443	Sanaa Lathan
+63444	Michael Desautels
+63447	Rob Paulsen
+63448	Sacha Baron Cohen
+63450	Tom Kenny
+63453	Judah Friedlander
+63455	David Weisman
+63456	Ivan Jackson
+63457	Noboru Iguchi
+63459	Mindee de Lacey
+63460	Telly Savalas
+63461	Daisuke 'Dice' Tsutsumi
+63462	Sarah Brown
+63469	William Bramley
+63470	Paul Lynde
+63472	Randy Balsmeyer
+63475	Nigel Pegram
+63478	Tommy Lee Jones
+63479	Pierre Collet
+63484	Shohei Imamura
+63487	Terence Harvey
+63498	Steve Williams
+63499	Marie Matiko
+63501	Paul America
+63503	Thomas Malling Cappelen
+63507	Dorothy McKim
+63509	Richard Creedon
+63515	Jimmy Durante
+63518	Ted Danson
+63525	Michael Callan
+63526	Mike Tollin
+63527	Tim Pigott-Smith
+63532	William Mapother
+63536	Tony Leech
+63540	Marijke Haakman
+63545	Daniel Sousa
+63547	Merrill de Maris
+63551	Judy Garland
+63554	Tom Atkins
+63558	Stan Francis
+63562	Tracey Grimshaw
+63563	Tobin Bell
+63564	Scott Johnsen
+63569	Viva
+63570	Richard Riehle
+63573	Laurent Witz
+63576	Liza Minnelli
+63578	Dave Michener
+63584	Ted Levine
+63594	David Michener
+63595	Viveca Lindfors
+63607	Jack Haley
+63611	Yuya Ozeki
+63613	Banjong Pisanthanakun
+63614	Julian Gilbey
+63617	Alexandre Bustillo
+63619	Tak Sakaguchi
+63622	Adrian García Bogliano
+63624	Albert Heath
+63629	Alejandro Brugués
+63632	Lancelot Oduwa Imasuen
+63634	Andrew Traucki
+63635	Larry Fessenden
+63641	Robert Morgan
+63648	Lee Hardcastle
